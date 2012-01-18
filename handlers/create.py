@@ -77,7 +77,7 @@ class CreateHandler(webapp.RequestHandler):
 				
 				# guessed course name
 				summary = component.decoded('summary', 'none')
-				course_names.add(id_from_summary(summary)[0])
+				course_names.add(id_from_summary(summary))
 
 			# reply with list of unique course names
 			path = os.path.join(os.path.dirname(__file__), '../templates/create.html')
