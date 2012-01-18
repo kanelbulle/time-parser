@@ -4,8 +4,6 @@ from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
 
 import urllib2
-import string
-import json
 import datetime
 import pickle
 from calendar_entity import CalendarEntity
@@ -49,7 +47,7 @@ class CreateHandler(webapp.RequestHandler):
 			
 			html += '<input type="checkbox" name="insert_location_in_summary" value="insert_location_in_summary" /> Insert location (e.g "D3") in the summary <br />'
 			html += '<input type="checkbox" name="separate_calendars" value="separate_calendars" checked /> Separate calendars'
-			html += '<input type="hidden" name="ics_url" value="wwwblah" />'
+			html += '<input type="hidden" name="ics_url" value="%s" />' % self.request.get("ics_url")
 			html += '</form>'
 			html += '<button class="create_button">Create my calendar</button>'
 			
@@ -84,7 +82,6 @@ class CreateHandler(webapp.RequestHandler):
 		loc_in_summary = self.request.get("insert_location_in_summary") != ""
 		ics_url = self.request.get("ics_url")
 		
-
 		# create the entities
 		entity_keys = []
 		if separate_calendars:

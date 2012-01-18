@@ -6,11 +6,11 @@ api_version: 1
 handlers:
 - url: /
   static_files: static/index.html
-  upload: index\.html
+  upload: static/index\.html
 
 - url: /index.html
   static_files: static/index.html
-  upload: index\.html
+  upload: static/index\.html
 
 - url: /css
   static_dir: static/css

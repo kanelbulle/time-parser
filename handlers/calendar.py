@@ -41,15 +41,16 @@ class CalendarHandler(webapp.RequestHandler):
 		cal_key = self.request.get("cal")
 		cal_entity = db.get(cal_key)
 		name_map = pickle.loads(cal_entity.names_map)
-		
+
 		try:
-			ical_string = open('timeedit-all.ics', 'r').read() #urllib2.urlopen(cal_entity.ics_url).read()
+			ical_string = urllib2.urlopen(cal_entity.ics_url).read()
 			cal = Calendar.from_string(ical_string)
 
 			new_cal = Calendar()
+			# prodid and version are required
+			new_cal.add('prodid', cal.decoded('prodid', ''))
 			new_cal.add('version', cal.decoded('version', ''))
 			new_cal.add('x-wr-calname', cal.decoded('x-wr-calname', ''))
-			new_cal.add('prodid', cal.decoded('prodid', ''))
 			new_cal.add('x-wr-timezone', cal.decoded('x-wr-timezone', ''))
 			new_cal.add('calscale', cal.decoded('calscale', ''))
 			new_cal.add('method', cal.decoded('method', ''))
@@ -69,10 +70,12 @@ class CalendarHandler(webapp.RequestHandler):
 				if new_summary == None:
 					# no map exists - this event should not be included
 					continue
-				new_summary += "\n".join(matches)
+				new_summary += "\\n".join(matches)
 				if cal_entity.location_in_summary:
-					new_summary += "\n" + component.decoded('location', '')
-				component.set_inline("summary", [new_summary], 1)
+					new_summary += "\\n" + component.decoded('location', '')
+				new_summary = new_summary.replace(',', '\,')
+				
+				component['summary'] = new_summary
 				new_cal.add_component(component)
 			
 			self.response.out.write(new_cal.as_string())
