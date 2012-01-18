@@ -1,0 +1,42 @@
+h1.main_title {
+	position: relative;
+	top: 50px;
+	color: #585858;
+	font-size:4em;
+	font-weight:;
+}
+
+body {
+	font-family: 'Inconsolata', sans-serif;
+}
+
+button.submit_button, 
+button.create_button {
+	margin-top:10px;
+	font-family: 'Inconsolata', sans-serif;
+	font-size:1.0em;
+}
+
+input.text_field {
+	border: 1;
+	width: 100%;
+	background-color: #fafafa;
+	font-size:1.0em;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.main_content_column {
+	position: relative;
+	margin-left: 100px;
+	margin-right: 100px;
+	min-width: 400px;
+}
+
+#content {
+	position: relative;
+	top: 50px;
+	padding: 20px;
+	background-color: #bababa;
+	border-radius: 5px;
+}

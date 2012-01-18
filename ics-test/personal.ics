@@ -1,0 +1,4098 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:5df3744ffb339ff1a8c4d09b71e1dc7b6a265787
+DTSTART:20110110T130000Z
+DTEND:20110110T180000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1631/event/tentamen-2011-01
+ -10-1400-14/\n
+DTSTAMP:20111008T235335Z
+LOCATION:D1\, D2\, D3\, D32\, D33\, D41\, D42\, E51\, F1\, L41\, L42\, Q1\
+ , Q11\, Q13\, Q15\, Q17\, Q21\, Q22\, Q24\, Q26\, Q31\, Q33\, Q34\, Q36\, 
+ V01\, V1\, V2\, V21\, V3\, V35
+STATUS:CONFIRMED
+SUMMARY:Discrete Mathematics (SF1631) Tentamen
+URL:https://www.kth.se/social/course/SF1631/event/tentamen-2011-01-10-1400
+ -14/
+END:VEVENT
+BEGIN:VEVENT
+UID:2028dbcc90238237f43f0aa9702a0b47f7794239
+DTSTART:20110111T090000Z
+DTEND:20110111T120000Z
+DESCRIPTION:https://www.kth.se/social/course/DN1241/event/tentamen-2011-01
+ -11-1000/\n
+DTSTAMP:20111008T230658Z
+LOCATION:D32\, D33\, D34\, D35\, E1\, E31\, E32\, E33\, E34\, E35\, E36\, 
+ E51
+STATUS:CONFIRMED
+SUMMARY:Numerical Methods\, Basic Course III (DN1241) Tentamen
+URL:https://www.kth.se/social/course/DN1241/event/tentamen-2011-01-11-1000
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:74ce4972c08cdba1319401d1d50f6a9ec5bbca5e
+DTSTART:20110112T130000Z
+DTEND:20110112T180000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1901/event/tentamena-2011-0
+ 1-12-1400/\n
+DTSTAMP:20111009T000059Z
+LOCATION:F1\, L51\, L52\, Q11\, Q13\, Q15\, Q17\, Q21\, Q22\, Q24\, Q26\, 
+ Q31\, Q33\, Q34\, Q36\, V01\, V11\, V12\, V22\, V32\, V33\, V35
+STATUS:CONFIRMED
+SUMMARY:Probability Theory and Statistics (SF1901) Tentamen.A
+URL:https://www.kth.se/social/course/SF1901/event/tentamena-2011-01-12-140
+ 0/
+END:VEVENT
+BEGIN:VEVENT
+UID:f7ee260b0377d06a6ec635841b5bffcf9c23defb
+DTSTART:20110112T130000Z
+DTEND:20110112T180000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1901/event/tentamena-2011-0
+ 1-12-1400-4/\n
+DTSTAMP:20111009T000734Z
+LOCATION:L21\, L22\, L41\, L42\, L43\, L44\, M22\, M32\, M35\, M36
+STATUS:CONFIRMED
+SUMMARY:Probability Theory and Statistics (SF1901) Tentamen.A
+URL:https://www.kth.se/social/course/SF1901/event/tentamena-2011-01-12-140
+ 0-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ecb5d0065559ab6621f2d3d63e368838633875
+DTSTART:20110113T130000Z
+DTEND:20110113T180000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1631/event/tentamen1-2011-0
+ 1-13-1400-2/\n
+DTSTAMP:20111008T230644Z
+LOCATION:Q11\, Q13\, Q15\, Q17\, Q22\, Q24\, Q26\, Q31\, Q33\, Q34\, Q36
+STATUS:CONFIRMED
+SUMMARY:Discrete Mathematics (SF1631) Tentamen.1
+URL:https://www.kth.se/social/course/SF1631/event/tentamen1-2011-01-13-140
+ 0-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:38a000c2cef31c8d63e26f61277307923cc54e7d
+DTSTART:20110117T120000Z
+DTEND:20110117T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -01-17-1300-37/\n
+DTSTAMP:20111008T233716Z
+LOCATION:E32
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-01-17-1
+ 300-37/
+END:VEVENT
+BEGIN:VEVENT
+UID:e70c08c30a7efa49d44da37cf90f4e38dde20f35
+DTSTART:20110118T100000Z
+DTEND:20110118T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -01-18-1100/\n
+DTSTAMP:20111009T000506Z
+LOCATION:F2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-01-18-1
+ 100/
+END:VEVENT
+BEGIN:VEVENT
+UID:6d3b3a8be3e7a62ba09f792c161e040ddbae6b27
+DTSTART:20110120T090000Z
+DTEND:20110120T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -01-20-1000-25/\n
+DTSTAMP:20111008T233719Z
+LOCATION:Q24
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-01-20-1
+ 000-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe064dd10f27583d166aa439b4eee4e9670dd93
+DTSTART:20110124T120000Z
+DTEND:20110124T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -01-24-1300-64/\n
+DTSTAMP:20111009T000351Z
+LOCATION:E31
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-01-24-1
+ 300-64/
+END:VEVENT
+BEGIN:VEVENT
+UID:a939d8eb5a8fca3b905f61c547c88e7d203bf79b
+DTSTART:20110125T140000Z
+DTEND:20110125T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -01-25-1500-19/\n
+DTSTAMP:20111009T000612Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-01-25-1
+ 500-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:adfbedb135d67f79cabf455600c8656f04e34aaf
+DTSTART:20110127T090000Z
+DTEND:20110127T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -01-27-1000-25/\n
+DTSTAMP:20111008T233720Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-01-27-1
+ 000-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ad679220f20d0f775a98cf3ffd73540844b0320
+DTSTART:20110131T120000Z
+DTEND:20110131T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -01-31-1300-25/\n
+DTSTAMP:20111008T233717Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-01-31-1
+ 300-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bee2d0f8f712d7e8fcce7b6b3ec709773aee1b
+DTSTART:20110203T090000Z
+DTEND:20110203T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-03-1000-32/\n
+DTSTAMP:20111009T000418Z
+LOCATION:Q31
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-03-1
+ 000-32/
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd5f8da9038f39d83e3e4594ba5b617a8fa3dad
+DTSTART:20110204T140000Z
+DTEND:20110204T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -02-04-1500-3/\n
+DTSTAMP:20111009T000612Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-02-04-1
+ 500-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:1b116ce0d60b9a17c489d29fa5e40614d447dfe6
+DTSTART:20110207T120000Z
+DTEND:20110207T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-07-1300-26/\n
+DTSTAMP:20111008T233717Z
+LOCATION:Q31
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-07-1
+ 300-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:7b6595e1d5e54c7de78ec607b5993d2bd11fab54
+DTSTART:20110207T140000Z
+DTEND:20110207T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -02-07-1500-17/\n
+DTSTAMP:20111009T001126Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-02-07-1
+ 500-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:228124de889c7cb4fa44949b73cd97ee9ff7fc37
+DTSTART:20110208T080000Z
+DTEND:20110208T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -02-08-0900-5/\n
+DTSTAMP:20111008T233041Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-02-08-0
+ 900-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2642649472fdc73652f7005898d116de19b4fb5
+DTSTART:20110209T140000Z
+DTEND:20110209T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -02-09-1500-9/\n
+DTSTAMP:20111009T000612Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-02-09-1
+ 500-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:6167f42b16f983777d47ae0771abb75cb7ce3f88
+DTSTART:20110210T090000Z
+DTEND:20110210T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-10-1000-18/\n
+DTSTAMP:20111008T233720Z
+LOCATION:L51
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-10-1
+ 000-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:241ee2f07b4f7048b4513024c406ac90dc334a05
+DTSTART:20110214T120000Z
+DTEND:20110214T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-14-1300-26/\n
+DTSTAMP:20111008T233718Z
+LOCATION:Q31
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-14-1
+ 300-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfd2d162171ba58c1656de6d007200f0b09fbb1
+DTSTART:20110216T140000Z
+DTEND:20110216T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -02-16-1500-8/\n
+DTSTAMP:20111009T000613Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-02-16-1
+ 500-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e96f82ada2cd3f034a08195339d177fd989413
+DTSTART:20110217T090000Z
+DTEND:20110217T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-17-1000-19/\n
+DTSTAMP:20111008T233720Z
+LOCATION:Q34
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-17-1
+ 000-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:e080d6ebcf047758494dbba8a53b0c4559cdcacb
+DTSTART:20110221T120000Z
+DTEND:20110221T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-21-1300-24/\n
+DTSTAMP:20111008T233718Z
+LOCATION:Q34
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-21-1
+ 300-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:1acfb7dd73c92e7d86a8cbacdb9b661ab32e2f3c
+DTSTART:20110223T140000Z
+DTEND:20110223T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -02-23-1500-10/\n
+DTSTAMP:20111009T000613Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-02-23-1
+ 500-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:cfeaa40ac3b6ee4f92334e7cca614b91b472c511
+DTSTART:20110224T090000Z
+DTEND:20110224T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-24-1000-19/\n
+DTSTAMP:20111008T233721Z
+LOCATION:Q33
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-24-1
+ 000-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a96283fe717b4507616631d558deecc1f9ebf5
+DTSTART:20110228T120000Z
+DTEND:20110228T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -02-28-1300-19/\n
+DTSTAMP:20111008T233719Z
+LOCATION:Q31
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-02-28-1
+ 300-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:985b75a904c6bb3aae533621924aa15a6bca651c
+DTSTART:20110301T070000Z
+DTEND:20110301T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/seminarium-2011-
+ 03-01-0800/\n
+DTSTAMP:20111009T001443Z
+LOCATION:H21
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Seminari
+ um
+URL:https://www.kth.se/social/course/DD143X/event/seminarium-2011-03-01-08
+ 00/
+END:VEVENT
+BEGIN:VEVENT
+UID:abccb2338c9e84db986baf7f5abb83b74bfab8e4
+DTSTART:20110302T140000Z
+DTEND:20110302T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -03-02-1500-6/\n
+DTSTAMP:20111009T000613Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-03-02-1
+ 500-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e8925fdc30603db896149f2be3c4517870e6f22
+DTSTART:20110303T090000Z
+DTEND:20110303T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -03-03-1000-20/\n
+DTSTAMP:20111008T233721Z
+LOCATION:Q34
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-03-03-1
+ 000-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:afd1e18f64bb09d1bae3a460b39fcb03b752eb10
+DTSTART:20110304T120000Z
+DTEND:20110304T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/seminarium-2011-
+ 03-04-1300-2/\n
+DTSTAMP:20111009T001444Z
+LOCATION:E32
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Seminari
+ um
+URL:https://www.kth.se/social/course/DD143X/event/seminarium-2011-03-04-13
+ 00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:597958f8078cedbac7dd527256d3d98decaece28
+DTSTART:20110307T120000Z
+DTEND:20110307T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2448/event/forelasning-2011
+ -03-07-1300-14/\n
+DTSTAMP:20111008T233718Z
+LOCATION:Q31
+STATUS:CONFIRMED
+SUMMARY:Foundations of Cryptography (DD2448) Föreläsning
+URL:https://www.kth.se/social/course/DD2448/event/forelasning-2011-03-07-1
+ 300-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:a4d832b746509f5bedb54f048066df96fd9a56be
+DTSTART:20110309T070000Z
+DTEND:20110309T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/seminarium-2011-
+ 03-09-0800/\n
+DTSTAMP:20111009T001404Z
+LOCATION:E33
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Seminari
+ um
+URL:https://www.kth.se/social/course/DD143X/event/seminarium-2011-03-09-08
+ 00/
+END:VEVENT
+BEGIN:VEVENT
+UID:4330e223d5247cd0921976cd07549e0ba5756872
+DTSTART:20110311T120000Z
+DTEND:20110311T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/seminarium-2011-
+ 03-11-1300-4/\n
+DTSTAMP:20111009T001403Z
+LOCATION:K53
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Seminari
+ um
+URL:https://www.kth.se/social/course/DD143X/event/seminarium-2011-03-11-13
+ 00-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2a0a9ea0423209f3421ba94efd2dff41d03aa7af
+DTSTART:20110322T120000Z
+DTEND:20110322T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/lektion-2011-03-
+ 22-1300-17/\n
+DTSTAMP:20111009T003936Z
+LOCATION:E53
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Lektion
+URL:https://www.kth.se/social/course/DD143X/event/lektion-2011-03-22-1300-
+ 17/
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2467be5304614c35a3d20f85b34a4ada7692bb
+DTSTART:20110323T140000Z
+DTEND:20110323T160000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -03-23-1500-6/\n
+DTSTAMP:20111009T001017Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-03-23-1
+ 500-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:90e6b88482d0d94cd7222497cc34a6cd5538a02b
+DTSTART:20110325T140000Z
+DTEND:20110325T160000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -03-25-1500-2/\n
+DTSTAMP:20111009T001017Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-03-25-1
+ 500-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbc0bc044a02b587ecbc14a7ad50254e7ec9a31
+DTSTART:20110328T080000Z
+DTEND:20110328T100000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -03-28-1000-47/\n
+DTSTAMP:20111009T001018Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-03-28-1
+ 000-47/
+END:VEVENT
+BEGIN:VEVENT
+UID:ca66f95572d44fc7cf2355dcc94cb6b0aa9d2575
+DTSTART:20110328T110000Z
+DTEND:20110328T130000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-03-2
+ 8-1300-10/\n
+DTSTAMP:20111009T001023Z
+LOCATION:M36
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-03-28-1300-1
+ 0/
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2c5ea9a42fe32a9f6dc585ced91c6823583742
+DTSTART:20110328T130000Z
+DTEND:20110328T150000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-03-2
+ 8-1500-5/\n
+DTSTAMP:20111009T003202Z
+LOCATION:M36
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-03-28-1500-5
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:642012c4208776a2a6ba3a2df3011c58690da81b
+DTSTART:20110330T130000Z
+DTEND:20110330T150000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -03-30-1500-7/\n
+DTSTAMP:20111009T001018Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-03-30-1
+ 500-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:820ff1d23d39aa1ce3c11e10bdd56f56155f13a1
+DTSTART:20110331T060000Z
+DTEND:20110331T080000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -03-31-0800-11/\n
+DTSTAMP:20111009T003225Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-03-31-0
+ 800-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:f50c3a922b2ce1c427655e32866358facd39d5fe
+DTSTART:20110404T080000Z
+DTEND:20110404T100000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -04-04-1000-49/\n
+DTSTAMP:20111009T003228Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-04-04-1
+ 000-49/
+END:VEVENT
+BEGIN:VEVENT
+UID:160420bc4d5ff726e68e37a3817b0304b1678453
+DTSTART:20110405T130000Z
+DTEND:20110405T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -04-05-1500-8/\n
+DTSTAMP:20111009T000539Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-04-05-1
+ 500-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:615b0d623a3d0d538d57581e0bee504717e0708d
+DTSTART:20110406T060000Z
+DTEND:20110406T080000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-04-0
+ 6-0800-8/\n
+DTSTAMP:20111009T010355Z
+LOCATION:V11
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-04-06-0800-8
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:05dcc60df73620eed757eb62d2ec8d8bef8d6b2c
+DTSTART:20110406T080000Z
+DTEND:20110406T100000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -04-06-1000-44/\n
+DTSTAMP:20111009T001019Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-04-06-1
+ 000-44/
+END:VEVENT
+BEGIN:VEVENT
+UID:f9965a2bfacc264e40b2a471ccc812c51cf9e9ab
+DTSTART:20110407T130000Z
+DTEND:20110407T150000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-04-0
+ 7-1500-11/\n
+DTSTAMP:20111009T003202Z
+LOCATION:V21
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-04-07-1500-1
+ 1/
+END:VEVENT
+BEGIN:VEVENT
+UID:221102bccad6ebfba28d2f0f63a4c05b62fbc69f
+DTSTART:20110412T130000Z
+DTEND:20110412T150000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -04-12-1500-10/\n
+DTSTAMP:20111009T001020Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-04-12-1
+ 500-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:2a6283e278406d2f1eb5414c6c3f50a56f7169b9
+DTSTART:20110415T060000Z
+DTEND:20110415T080000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -04-15-0800-14/\n
+DTSTAMP:20111009T001020Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-04-15-0
+ 800-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf946cc1fbde070071deda36e7b3c9bcb83a00f
+DTSTART:20110426T080000Z
+DTEND:20110426T100000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -04-26-1000-44/\n
+DTSTAMP:20111009T001022Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-04-26-1
+ 000-44/
+END:VEVENT
+BEGIN:VEVENT
+UID:b19685494fdfdbfb33f21b49e18e773d0d40e6ac
+DTSTART:20110426T130000Z
+DTEND:20110426T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -04-26-1500-13/\n
+DTSTAMP:20111009T000613Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-04-26-1
+ 500-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:a191a051f24e6b33bf47934c0f06af5097c7abd9
+DTSTART:20110427T060000Z
+DTEND:20110427T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/workshop-2011-04
+ -27-0800/\n
+DTSTAMP:20111009T000643Z
+LOCATION:V32\, V34\, V35
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Workshop
+URL:https://www.kth.se/social/course/DD143X/event/workshop-2011-04-27-0800
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:abff193f8751312a0d37a7cc6efc69e777fb27a1
+DTSTART:20110429T110000Z
+DTEND:20110429T130000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -04-29-1300-14/\n
+DTSTAMP:20111009T001021Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-04-29-1
+ 300-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3cd9f575a6917833050f69f6790df2219462086
+DTSTART:20110429T130000Z
+DTEND:20110429T150000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-04-2
+ 9-1500-6/\n
+DTSTAMP:20111009T001023Z
+LOCATION:V21
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-04-29-1500-6
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:f869001aa61f9258d6061150a602d01a35fc732d
+DTSTART:20110502T060000Z
+DTEND:20110502T080000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-0
+ 2-0800-4/\n
+DTSTAMP:20111009T003203Z
+LOCATION:E52
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-02-0800-4
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:963fd35866b83140968a88de65bef3d3119c29b8
+DTSTART:20110502T080000Z
+DTEND:20110502T100000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -05-02-1000-39/\n
+DTSTAMP:20111009T001021Z
+LOCATION:L1
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-05-02-1
+ 000-39/
+END:VEVENT
+BEGIN:VEVENT
+UID:11dbb9fe491c5b5c1a8bb7bd2b8046e0b20aa289
+DTSTART:20110502T110000Z
+DTEND:20110502T130000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-0
+ 2-1300-8/\n
+DTSTAMP:20111009T001024Z
+LOCATION:M36
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-02-1300-8
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:e4732f3217ae1db81460e514b0e6509303d94ac3
+DTSTART:20110502T130000Z
+DTEND:20110502T150000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-0
+ 2-1500-3/\n
+DTSTAMP:20111009T003203Z
+LOCATION:M33
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-02-1500-3
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:ecf7f7bc88387aec0c509ad61a52d1ca3cb27e14
+DTSTART:20110503T130000Z
+DTEND:20110503T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -05-03-1500-10/\n
+DTSTAMP:20111009T000614Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-05-03-1
+ 500-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:efdede1317a9db780d37d4b612db5932ccbe47d8
+DTSTART:20110504T130000Z
+DTEND:20110504T150000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -05-04-1500-6/\n
+DTSTAMP:20111009T001021Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-05-04-1
+ 500-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:5e91ccfab13f3cd7edfa72247baf5376d6edbcae
+DTSTART:20110509T080000Z
+DTEND:20110509T100000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -05-09-1000-4/\n
+DTSTAMP:20111008T230525Z
+LOCATION:L1
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-05-09-1
+ 000-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c244dbeef063d2a5dbc0691b2345de8e9aa9462
+DTSTART:20110510T070000Z
+DTEND:20110510T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -05-10-0900-4/\n
+DTSTAMP:20111008T233025Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-05-10-0
+ 900-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:b950cd12e09897fa856961b5bc7ad042ec6a933b
+DTSTART:20110510T110000Z
+DTEND:20110510T130000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-1
+ 0-1300-14/\n
+DTSTAMP:20111009T001024Z
+LOCATION:V21
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-10-1300-1
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae336b0cd99cd61b8dc0afcccc6d88dbd75d08d3
+DTSTART:20110510T130000Z
+DTEND:20110510T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD143X/event/forelasning-2011
+ -05-10-1500-5/\n
+DTSTAMP:20111009T000614Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Degree Project in Computer Science\, First Level (DD143X) Förelä
+ sning
+URL:https://www.kth.se/social/course/DD143X/event/forelasning-2011-05-10-1
+ 500-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:5d6ad355d887022a6b4608980082a6ad2b6da976
+DTSTART:20110511T110000Z
+DTEND:20110511T130000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-1
+ 1-1300-12/\n
+DTSTAMP:20111009T003203Z
+LOCATION:V11
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Övning
+URL:https://www.kth.se/social/course/ID2206/event/ovning-2011-05-11-1300-1
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ffacc569bbdde53820c2448882a4040212ce2fd
+DTSTART:20110516T080000Z
+DTEND:20110516T100000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/forelasning-2011
+ -05-16-1000-16/\n
+DTSTAMP:20111008T235103Z
+LOCATION:L1
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Föreläsning
+URL:https://www.kth.se/social/course/ID2206/event/forelasning-2011-05-16-1
+ 000-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:a330e3a6f333cb314cb76e4560b39618f8dd99e3
+DTSTART:20110525T120000Z
+DTEND:20110525T160000Z
+DESCRIPTION:https://www.kth.se/social/course/ID2206/event/tentamen-2011-05
+ -25-1400-7/\n
+DTSTAMP:20111009T000649Z
+LOCATION:Ka-431 (Ka-FORUM 431)\, Ka-438 (Ka-FORUM 438)\, Ka-C2 (Isafjordsg
+  20-26 Trapph. C)\, Ka-C21 (Isafjordsg 20-26 Trapph. C)\, Ka-C22 (Isafjord
+ sg 20-26 Trapph. C)\, Ka-SalD (Ka Forum sal D)\, Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Operating Systems (ID2206) Tentamen
+URL:https://www.kth.se/social/course/ID2206/event/tentamen-2011-05-25-1400
+ -7/
+END:VEVENT
+BEGIN:VEVENT
+UID:931053301191625c102ea01443ea37b695378eab
+DTSTART:20110526T120000Z
+DTEND:20110526T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DN1241/event/tentamen-2011-05
+ -26-1400-6/\n
+DTSTAMP:20111009T000642Z
+LOCATION:L51\, L52\, M1\, M21\, M22\, M23\, M24\, M31\, M32\, M33\, M35\, 
+ M36\, M37\, M38\, V32\, V33\, V34\, V35
+STATUS:CONFIRMED
+SUMMARY:Numerical Methods\, Basic Course III (DN1241) Tentamen
+URL:https://www.kth.se/social/course/DN1241/event/tentamen-2011-05-26-1400
+ -6/
+END:VEVENT
+BEGIN:VEVENT
+UID:8998f90a342f64ba99fe9614bd9fd440585b9499
+DTSTART:20110601T060000Z
+DTEND:20110601T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1631/event/tentamen-2011-06
+ -01-0800-8/\n
+DTSTAMP:20111008T235917Z
+LOCATION:F1
+STATUS:CONFIRMED
+SUMMARY:Discrete Mathematics (SF1631) Tentamen
+URL:https://www.kth.se/social/course/SF1631/event/tentamen-2011-06-01-0800
+ -8/
+END:VEVENT
+BEGIN:VEVENT
+UID:25ff50c61a1187fe0309c31ac015cd7232049f7a
+DTSTART:20110601T120000Z
+DTEND:20110601T170000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1901/event/tentamen-2011-06
+ -01-1400-9/\n
+DTSTAMP:20111008T235859Z
+LOCATION:F1\, L21\, L22\, L41\, L42\, L51\, Q15\, V01\, V11\, V21\, V22\, 
+ V23\, V32\, V33\, V34\, V35
+STATUS:CONFIRMED
+SUMMARY:Probability Theory and Statistics (SF1901) Tentamen
+URL:https://www.kth.se/social/course/SF1901/event/tentamen-2011-06-01-1400
+ -9/
+END:VEVENT
+BEGIN:VEVENT
+UID:f99d4c121ac800233e1a6cedc0476666a1f781db
+DTSTART:20110601T120000Z
+DTEND:20110601T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/tentamen-2011-06
+ -01-1400-30/\n
+DTSTAMP:20111009T011212Z
+LOCATION:D41
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Tentamen
+URL:https://www.kth.se/social/course/DD2395/event/tentamen-2011-06-01-1400
+ -30/
+END:VEVENT
+BEGIN:VEVENT
+UID:94a01d2d44081fe4d20c76b379184660e9e4d1fc
+DTSTART:20110607T060000Z
+DTEND:20110607T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1631/event/tentamen-2011-06
+ -07-0800-22/\n
+DTSTAMP:20111009T011316Z
+LOCATION:V32\, V33
+STATUS:CONFIRMED
+SUMMARY:Discrete Mathematics (SF1631) Tentamen
+URL:https://www.kth.se/social/course/SF1631/event/tentamen-2011-06-07-0800
+ -22/
+END:VEVENT
+BEGIN:VEVENT
+UID:a666db541b8af4e686fcecb05aab80bd16114911
+DTSTART:20110607T060000Z
+DTEND:20110607T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1904/event/tentamen1-2011-0
+ 6-07-0800-3/\n
+DTSTAMP:20111009T011235Z
+LOCATION:F1\, V01\, V11\, V12\, V21\, V35
+STATUS:CONFIRMED
+SUMMARY:Markov Processes\, Basic Course (SF1904) Tentamen.1
+URL:https://www.kth.se/social/course/SF1904/event/tentamen1-2011-06-07-080
+ 0-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:e42eb1f4b6933008c20cf8e619b09a0ac7f0ea7b
+DTSTART:20110608T060000Z
+DTEND:20110608T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/tentamen1-2011-0
+ 6-08-0800-3/\n
+DTSTAMP:20111008T235908Z
+LOCATION:D3\, D34\, D35\, E31\, E32\, E33\, E35\, E36\, F1\, F2\, L43\, L4
+ 4\, L51\, L52\, M1\, M35\, M36\, M37\, M38\, V11\, V12\, V21\, V22\, V23\,
+  V33\, V34
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Tentamen.1
+URL:https://www.kth.se/social/course/SF1626/event/tentamen1-2011-06-08-080
+ 0-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:291bb42fffcf1078ca501ac5377074a5a77eae0e
+DTSTART:20110609T070000Z
+DTEND:20110609T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD1361/event/tentamen-2011-06
+ -09-0900-13/\n
+DTSTAMP:20111008T235912Z
+LOCATION:Q31\, Q33
+STATUS:CONFIRMED
+SUMMARY:Programming Paradigms (DD1361) Tentamen
+URL:https://www.kth.se/social/course/DD1361/event/tentamen-2011-06-09-0900
+ -13/
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0376883fc68a5bacb0fe63b8fb3bacf845dd58
+DTSTART:20110609T100000Z
+DTEND:20110609T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD1361/event/tentamen-2011-06
+ -09-1200/\n
+DTSTAMP:20111008T235908Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Programming Paradigms (DD1361) Tentamen
+URL:https://www.kth.se/social/course/DD1361/event/tentamen-2011-06-09-1200
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:b75b6c72923213041fddd3d17649b9f03ccaa0ae
+DTSTART:20110609T120000Z
+DTEND:20110609T170000Z
+DESCRIPTION:https://www.kth.se/social/course/IS1200/event/tentamen-2011-06
+ -09-1400-15/\n
+DTSTAMP:20111009T010547Z
+LOCATION:Ka-439 (Ka-FORUM 439)\, Ka-530 (Ka-Forum 530)\, Ka-531 (Ka-Forum 
+ 531)\, Ka-532 (Ka-Forum 532)\, Ka-533 (Ka-Forum 533)\, Ka-540 (Ka-Forum 54
+ 0)
+STATUS:CONFIRMED
+SUMMARY:Computer Hardware Engineering (IS1200) Tentamen
+URL:https://www.kth.se/social/course/IS1200/event/tentamen-2011-06-09-1400
+ -15/
+END:VEVENT
+BEGIN:VEVENT
+UID:9bbb067ea6182136aad5deefd92154586c2404bd
+DTSTART:20110609T120000Z
+DTEND:20110609T170000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/tentamen-2011-06
+ -09-1400-4/\n
+DTSTAMP:20111008T235917Z
+LOCATION:Ka-539 (Ka-Forum 539)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Tentamen
+URL:https://www.kth.se/social/course/ID1217/event/tentamen-2011-06-09-1400
+ -4/
+END:VEVENT
+BEGIN:VEVENT
+UID:80afc3a480efd0d24241a8d6890b90767da0a177
+DTSTART:20110610T070000Z
+DTEND:20110610T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DN1241/event/tentamen-2011-06
+ -10-0900-2/\n
+DTSTAMP:20111008T235856Z
+LOCATION:D1\, D35\, L1\, L22\, L41\, L43\, L44\, L51\, Q21\, Q22\, Q26
+STATUS:CONFIRMED
+SUMMARY:Numerical Methods\, Basic Course III (DN1241) Tentamen
+URL:https://www.kth.se/social/course/DN1241/event/tentamen-2011-06-10-0900
+ -2/
+END:VEVENT
+BEGIN:VEVENT
+UID:88969eba8c7db4fe8153f975b315f4c688c26562
+DTSTART:20110815T060000Z
+DTEND:20110815T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1901/event/tentamen1-2011-0
+ 8-15-0800-2/\n
+DTSTAMP:20111009T010857Z
+LOCATION:Q13\, Q15\, Q17\, Q21\, Q22\, Q24\, Q26\, Q31\, Q33\, Q34\, Q36
+STATUS:CONFIRMED
+SUMMARY:Probability Theory and Statistics (SF1901) Tentamen.1
+URL:https://www.kth.se/social/course/SF1901/event/tentamen1-2011-08-15-080
+ 0-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:01e84ffaea8f9894932a79a5937ffe2b67eba203
+DTSTART:20110816T120000Z
+DTEND:20110816T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2431/event/tentamen-2011-08
+ -16-1400-6/\n
+DTSTAMP:20111009T011159Z
+LOCATION:D33
+STATUS:CONFIRMED
+SUMMARY:Machine Learning (DD2431) Tentamen
+URL:https://www.kth.se/social/course/DD2431/event/tentamen-2011-08-16-1400
+ -6/
+END:VEVENT
+BEGIN:VEVENT
+UID:7eccb7c3906a3f80bdf004cb2ae84cdf64df0a63
+DTSTART:20110818T120000Z
+DTEND:20110818T170000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/tentamen1-2011-0
+ 8-18-1400-3/\n
+DTSTAMP:20111009T010851Z
+LOCATION:E31\, E33\, E35\, Q11\, Q13\, Q15\, Q17\, Q22\, Q24\, Q26\, Q31\,
+  Q33\, Q34\, Q36
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Tentamen.1
+URL:https://www.kth.se/social/course/SF1626/event/tentamen1-2011-08-18-140
+ 0-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:45507919e86f2a46c30fd672681b2e0fa4945bb0
+DTSTART:20110819T120000Z
+DTEND:20110819T170000Z
+DESCRIPTION:https://www.kth.se/social/course/IS1200/event/tentamen-2011-08
+ -19-1400-4/\n
+DTSTAMP:20111009T010951Z
+LOCATION:E31\, E32\, E33
+STATUS:CONFIRMED
+SUMMARY:Computer Hardware Engineering (IS1200) Tentamen
+URL:https://www.kth.se/social/course/IS1200/event/tentamen-2011-08-19-1400
+ -4/
+END:VEVENT
+BEGIN:VEVENT
+UID:d52dd11ad92b97763ad6b1350efe0fea8aa66377
+DTSTART:20110822T060000Z
+DTEND:20110822T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SK1131/event/tentamen-2011-08
+ -22-0800-4/\n
+DTSTAMP:20111009T010953Z
+LOCATION:FB42\, FB51\, FB52
+STATUS:CONFIRMED
+SUMMARY:Physics: Waves and Particles (SK1131) Tentamen
+URL:https://www.kth.se/social/course/SK1131/event/tentamen-2011-08-22-0800
+ -4/
+END:VEVENT
+BEGIN:VEVENT
+UID:f53103b0a56ac2e66da67bd68a9b327808f9ebe6
+DTSTART:20110825T120000Z
+DTEND:20110825T160000Z
+DESCRIPTION:https://www.kth.se/social/course/ME1010/event/tentamen-2011-08
+ -25-1400-11/\n
+DTSTAMP:20111009T010959Z
+LOCATION:D34
+STATUS:CONFIRMED
+SUMMARY:Organization and Knowledge-Intensive Work (ME1010) Tentamen
+URL:https://www.kth.se/social/course/ME1010/event/tentamen-2011-08-25-1400
+ -11/
+END:VEVENT
+BEGIN:VEVENT
+UID:167bb8d67de827e777f2880a5e862df096ac839a
+DTSTART:20110829T060000Z
+DTEND:20110829T080000Z
+DESCRIPTION:https://www.kth.se/social/program/cdate/event/5104040/\n
+DTSTAMP:20110513T122127Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Civilingenjörsutb i datateknik (CDATE\, 300 hp) Föreläsning
+URL:https://www.kth.se/social/program/cdate/event/5104040/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d91a378f5fc54dcc923345fafeb2e0e2f8473ac
+DTSTART:20110829T060000Z
+DTEND:20110829T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -08-29-0800-7/\n
+DTSTAMP:20111009T004211Z
+LOCATION:F2
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-08-29-0
+ 800-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:d7ec9712ef297b6d9ef4a953e25dfc5f593c82fa
+DTSTART:20110829T110000Z
+DTEND:20110829T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -08-29-1300-39/\n
+DTSTAMP:20111009T004217Z
+LOCATION:B1
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-08-29-1
+ 300-39/
+END:VEVENT
+BEGIN:VEVENT
+UID:296e44f9d8622d85ffbdf3c215627837f1a01257
+DTSTART:20110830T130000Z
+DTEND:20110830T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -08-30-1500-12/\n
+DTSTAMP:20111009T004246Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-08-30-1
+ 500-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e72386583552597fef9071dfa7fec514604a763
+DTSTART:20110831T060000Z
+DTEND:20110831T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -08-31-0800-19/\n
+DTSTAMP:20111009T004218Z
+LOCATION:B1
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-08-31-0
+ 800-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:68bd557254c9ad35a45dc2a657b917e3d9f93693
+DTSTART:20110831T130000Z
+DTEND:20110831T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -08-31-1500-14/\n
+DTSTAMP:20111009T004211Z
+LOCATION:Q1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-08-31-1
+ 500-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:9542e3b1afca0283a5f9f8f7d9b5b254338e22f1
+DTSTART:20110901T110000Z
+DTEND:20110901T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -09-01-1300-17/\n
+DTSTAMP:20111009T004259Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-09-01-1
+ 300-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6e7c8b5d7cd31e7906bc97f9921fb2576fa0ff
+DTSTART:20110902T130000Z
+DTEND:20110902T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-02-1500-5/\n
+DTSTAMP:20111009T004221Z
+LOCATION:L1
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-02-1
+ 500-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:0aeab4b541011b42450e361385d68a570ecb5353
+DTSTART:20110905T060000Z
+DTEND:20110905T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-05-0800-10/\n
+DTSTAMP:20111009T004212Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-05-0
+ 800-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:84d458492ed3c03f1b343909ec7bfa6b089cbf00
+DTSTART:20110905T080000Z
+DTEND:20110905T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -09-05-1000-28/\n
+DTSTAMP:20111009T004259Z
+LOCATION:B2
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-09-05-1
+ 000-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d224f3319f1de4967675d071dc53c22a55cc087
+DTSTART:20110905T110000Z
+DTEND:20110905T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-05-1300-31/\n
+DTSTAMP:20111009T004222Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-05-1
+ 300-31/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d97f9f8b012c7e38e3eaa482be60d2927297def
+DTSTART:20110906T060000Z
+DTEND:20110906T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-06-0800-12/\n
+DTSTAMP:20111009T004212Z
+LOCATION:F1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-06-0
+ 800-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:002c995852a7e782b4f07e6c88f0dc9dfd5a5856
+DTSTART:20110907T060000Z
+DTEND:20110907T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-07-0800-14/\n
+DTSTAMP:20111009T004222Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning 20
+ 11-09-07 08:00
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-07-0
+ 800-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffcffb38d022593984a7193b76f9bcb852bb49d4
+DTSTART:20110907T080000Z
+DTEND:20110907T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-0
+ 7-1000-14/\n
+DTSTAMP:20111009T004257Z
+LOCATION:E32\, E35
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-07-1000-1
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:6878c52c704d53a94819042ff78c838a1aee58fc
+DTSTART:20110907T110000Z
+DTEND:20110907T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-0
+ 7-1300-13/\n
+DTSTAMP:20111009T004258Z
+LOCATION:B21\, B22
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-07-1300-1
+ 3/
+END:VEVENT
+BEGIN:VEVENT
+UID:e77a304f92f29615c582795377aa5c8648c83f93
+DTSTART:20110908T060000Z
+DTEND:20110908T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-08-0800-9/\n
+DTSTAMP:20111009T004226Z
+LOCATION:D2
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-08-0
+ 800-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:949cc31d76eb1d4c116699cb8e7e121a75e1cc78
+DTSTART:20110908T110000Z
+DTEND:20110908T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-08-1300-17/\n
+DTSTAMP:20111009T010853Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-08-13
+ 00-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e768d616229de89228fe0c435097e4ffaff309
+DTSTART:20110909T060000Z
+DTEND:20110909T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-09-0800-12/\n
+DTSTAMP:20111009T004227Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-09-08
+ 00-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:c249bfaa29a53243d435324a037cc86d8f25c2a3
+DTSTART:20110909T110000Z
+DTEND:20110909T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-09-1300-16/\n
+DTSTAMP:20111009T010852Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-09-13
+ 00-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:54631eba8661a27498574fee2457ee6d874437d8
+DTSTART:20110912T060000Z
+DTEND:20110912T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-12-0800-10/\n
+DTSTAMP:20111009T004229Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-12-0
+ 800-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:d25a41e2d2e1e50f12bfd927b21d6fbce4062238
+DTSTART:20110912T080000Z
+DTEND:20110912T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -09-12-1000-24/\n
+DTSTAMP:20111009T004300Z
+LOCATION:B2
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-09-12-1
+ 000-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:621a7a80028b20d09f176409e566bad4ef16ebda
+DTSTART:20110912T110000Z
+DTEND:20110912T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-12-1300-23/\n
+DTSTAMP:20111009T004212Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-12-1
+ 300-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:61343e5206cf7350446c066f1c7fe75f8df11063
+DTSTART:20110913T060000Z
+DTEND:20110913T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-13-0800-8/\n
+DTSTAMP:20111009T004213Z
+LOCATION:F2
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-13-0
+ 800-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:bfeae3a0fa50f0dc5fb5a8b51576fce4449cf2cf
+DTSTART:20110914T060000Z
+DTEND:20110914T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-14-0800-12/\n
+DTSTAMP:20111009T004230Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-14-0
+ 800-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:780475f1774be34c4c2559f95f999be9085bef79
+DTSTART:20110914T070000Z
+DTEND:20110914T100000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/laboration-2011-
+ 09-14-0900-2/\n
+DTSTAMP:20111009T005408Z
+LOCATION:Ka-D650 (Datorsal\, Forum)
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/laboration-2011-09-14-09
+ 00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:c21b0fabaad7ee41f2ea839f966a5b9d35424c40
+DTSTART:20110914T080000Z
+DTEND:20110914T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-1
+ 4-1000-10/\n
+DTSTAMP:20111009T004258Z
+LOCATION:B21\, B22
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-14-1000-1
+ 0/
+END:VEVENT
+BEGIN:VEVENT
+UID:99ef613828742557146a5dfdbb229332390ee3b7
+DTSTART:20110914T110000Z
+DTEND:20110914T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-1
+ 4-1300-12/\n
+DTSTAMP:20111009T004258Z
+LOCATION:B21\, B22
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-14-1300-1
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+UID:c7b9c94480648619e55a9ba593707ae59a165acc
+DTSTART:20110914T110000Z
+DTEND:20110914T140000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/laboration-2011-
+ 09-14-1300-19/\n
+DTSTAMP:20111009T010055Z
+LOCATION:Ka-D650 (Datorsal\, Forum)
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/laboration-2011-09-14-13
+ 00-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:c3fa8bbca640712be2259a368957b678c0c9af30
+DTSTART:20110914T130000Z
+DTEND:20110914T150000Z
+DESCRIPTION:https://www.kth.se/social/program/cdate/event/5079260/\n
+DTSTAMP:20110912T120452Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Civilingenjörsutb i datateknik (CDATE\, 300 hp) Föreläsning
+URL:https://www.kth.se/social/program/cdate/event/5079260/
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d9c8b0556c58e311e472072eff06a2024088da
+DTSTART:20110914T130000Z
+DTEND:20110914T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-14-1500-9/\n
+DTSTAMP:20111009T004232Z
+LOCATION:K1 (K1 \, Teknikringen 56)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-14-1
+ 500-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:c54171821f38945dd1b1411e9712120c362d4dde
+DTSTART:20110915T110000Z
+DTEND:20110915T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-15-1300-2/\n
+DTSTAMP:20111008T235640Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-15-13
+ 00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:67e3fe1acbc4d3bd7ea5f2aadb1da70011972c5b
+DTSTART:20110915T130000Z
+DTEND:20110915T150000Z
+DESCRIPTION:https://www.kth.se/social/program/cdate/event/5079340/\n
+DTSTAMP:20110912T120537Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Civilingenjörsutb i datateknik (CDATE\, 300 hp) Föreläsning
+URL:https://www.kth.se/social/program/cdate/event/5079340/
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a575b296b7e8498e735771fa44d6406cdfa95b
+DTSTART:20110916T060000Z
+DTEND:20110916T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-16-0800-13/\n
+DTSTAMP:20111009T010853Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-16-08
+ 00-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4f3929ccb8a4a796bf0c09f0ee1b47c1b21bd70
+DTSTART:20110916T110000Z
+DTEND:20110916T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-16-1300-19/\n
+DTSTAMP:20111009T010854Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-16-13
+ 00-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:63a33c798a6ad7d150104dea7c6d2e9bf71bfe26
+DTSTART:20110919T060000Z
+DTEND:20110919T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-19-0800-6/\n
+DTSTAMP:20111009T004213Z
+LOCATION:Q1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-19-0
+ 800-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca7ee4ff498eab4eb4fd9d4543313b35c446e7a
+DTSTART:20110919T080000Z
+DTEND:20110919T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-19-1000-28/\n
+DTSTAMP:20111009T004234Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-19-1
+ 000-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:0de237d4c7696e4d9c337b3dcabfb2f623f6045a
+DTSTART:20110919T110000Z
+DTEND:20110919T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -09-19-1300-27/\n
+DTSTAMP:20111009T004245Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-09-19-1
+ 300-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e194dff9db5372479cf2039712e43a6df2b6c8
+DTSTART:20110920T130000Z
+DTEND:20110920T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-20-1500-4/\n
+DTSTAMP:20111009T004214Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-20-1
+ 500-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:40089ae9d4c6937af93514150944cbe25a00db7d
+DTSTART:20110921T060000Z
+DTEND:20110921T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-21-0800-15/\n
+DTSTAMP:20111009T004235Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-21-0
+ 800-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:ba588f0706f4674a547e71f21522d3057e8a8997
+DTSTART:20110921T110000Z
+DTEND:20110921T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-21-1300-18/\n
+DTSTAMP:20111009T004213Z
+LOCATION:Q1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-21-1
+ 300-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed64fa6b1b4ae45472122496d6ce79429b3d66d
+DTSTART:20110921T130000Z
+DTEND:20110921T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-21-1500-8/\n
+DTSTAMP:20111009T004235Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-21-1
+ 500-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3e3c0e98ac1dc081e12fb3a5c4942c6605ea11c
+DTSTART:20110922T060000Z
+DTEND:20110922T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-22-0800-12/\n
+DTSTAMP:20111009T010855Z
+LOCATION:5V1Grå (Grå)\, 5V2Kar (Karmosin)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-22-08
+ 00-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4329f38e1fb486ee9204a8beb50d88cd1093ebd
+DTSTART:20110922T110000Z
+DTEND:20110922T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-22-1300-16/\n
+DTSTAMP:20111009T010854Z
+LOCATION:5V1Grå (Grå)\, 5V2Kar (Karmosin)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-22-13
+ 00-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:5df97fcbec30eb9bd7c8b8346d005ca635683b02
+DTSTART:20110922T110000Z
+DTEND:20110922T140000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/laboration-2011-
+ 09-22-1300-21/\n
+DTSTAMP:20111009T013022Z
+LOCATION:Ka-D650 (Datorsal\, Forum)
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/laboration-2011-09-22-13
+ 00-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6b0345eedd822a4e99854b0c171407524c2b546
+DTSTART:20110923T060000Z
+DTEND:20110923T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-23-0800-7/\n
+DTSTAMP:20111009T010854Z
+LOCATION:5V1Grå (Grå)\, 5V2Kar (Karmosin)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-23-08
+ 00-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:292aa7909702e56ae6b61657144c6991739ad4b4
+DTSTART:20110923T110000Z
+DTEND:20110923T140000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/laboration-2011-
+ 09-23-1300-30/\n
+DTSTAMP:20111009T013023Z
+LOCATION:Ka-D650 (Datorsal\, Forum)
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/laboration-2011-09-23-13
+ 00-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:c440785dca748eef86a9b1deb65c1137f9ecad8c
+DTSTART:20110926T060000Z
+DTEND:20110926T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-26-0800-13/\n
+DTSTAMP:20111009T013112Z
+LOCATION:5V2Kar (Karmosin)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-26-08
+ 00-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:7b18cc196081a3dc30de5489622950eb3a359789
+DTSTART:20110926T110000Z
+DTEND:20110926T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-26-1300-27/\n
+DTSTAMP:20111009T004237Z
+LOCATION:B1
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-26-1
+ 300-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:0fac625a52a68c6480a331720f00d7164c96f222
+DTSTART:20110927T060000Z
+DTEND:20110927T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -09-27-0800-11/\n
+DTSTAMP:20111009T004226Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-09-27-0
+ 800-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:d531d05169306866edf70eeaff132e3ab94fbe76
+DTSTART:20110927T110000Z
+DTEND:20110927T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-27-1300-17/\n
+DTSTAMP:20111009T004214Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-27-1
+ 300-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4676df26badfcabcbe3717868efa0dcd1c3a731
+DTSTART:20110928T070000Z
+DTEND:20110928T100000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/laboration-2011-
+ 09-28-0900-2/\n
+DTSTAMP:20111009T012814Z
+LOCATION:Ka-D650 (Datorsal\, Forum)
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/laboration-2011-09-28-09
+ 00-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:9c10bda390775d2cf827b79bf350010073b728f3
+DTSTART:20110928T080000Z
+DTEND:20110928T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -09-28-1000-24/\n
+DTSTAMP:20111009T004248Z
+LOCATION:V1
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-09-28-1
+ 000-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:566d6a6a2865677d48dd1c2fcd029d37da7907ff
+DTSTART:20110928T110000Z
+DTEND:20110928T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-28-1300-13/\n
+DTSTAMP:20111009T010844Z
+LOCATION:4V3Ora (Orange)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-28-13
+ 00-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:cdafb4855935568df260f43ef54ee310029ff4b1
+DTSTART:20110928T110000Z
+DTEND:20110928T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-2
+ 8-1300-19/\n
+DTSTAMP:20111009T004300Z
+LOCATION:D41\, D42
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-28-1300-1
+ 9/
+END:VEVENT
+BEGIN:VEVENT
+UID:618834bf49a2e2731738239e9f5b33abe4661621
+DTSTART:20110928T110000Z
+DTEND:20110928T140000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/laboration-2011-
+ 09-28-1300-21/\n
+DTSTAMP:20111009T012814Z
+LOCATION:Ka-D650 (Datorsal\, Forum)
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/laboration-2011-09-28-13
+ 00-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:00b7bf25a1d060be1534bed0bddccf5856867849
+DTSTART:20110929T060000Z
+DTEND:20110929T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-29-0800-8/\n
+DTSTAMP:20111009T004236Z
+LOCATION:5V1Grå (Grå)\, 5V2Kar (Karmosin)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-29-08
+ 00-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:708235bd748daaca8e74cef8e9d9d7e76f327170
+DTSTART:20110929T060000Z
+DTEND:20110929T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -09-29-0800-7/\n
+DTSTAMP:20111009T004214Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-09-29-0
+ 800-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:2776f8e577a31073e1a625660f043ca44f5ad41f
+DTSTART:20110929T110000Z
+DTEND:20110929T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -09-29-1300-15/\n
+DTSTAMP:20111009T004248Z
+LOCATION:V1
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-09-29-1
+ 300-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:7576d4311e05f9d7e83632de47eb77d4e82ec9ef
+DTSTART:20110930T060000Z
+DTEND:20110930T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 09-30-0800-9/\n
+DTSTAMP:20111009T004236Z
+LOCATION:5V1Grå (Grå)\, 5V2Kar (Karmosin)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-09-30-08
+ 00-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f25853ac1b261816257d6b427bca73a41c0b14
+DTSTART:20110930T110000Z
+DTEND:20110930T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-3
+ 0-1300-21/\n
+DTSTAMP:20111009T004308Z
+LOCATION:B23\, B24
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-09-30-1300-2
+ 1/
+END:VEVENT
+BEGIN:VEVENT
+UID:a518eea4b531d756b81dd4353728a10e93ba7f26
+DTSTART:20111003T060000Z
+DTEND:20111003T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 10-03-0800-13/\n
+DTSTAMP:20111009T013113Z
+LOCATION:5V2Kar (Karmosin)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-10-03-08
+ 00-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:d322a4b5d780f23d02db20997eec2b736751b4f1
+DTSTART:20111003T060000Z
+DTEND:20111003T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -10-03-0800-8/\n
+DTSTAMP:20111009T004245Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-10-03-0
+ 800-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:442cccd67e3240f93d61a18ea84152b8aa10a0cd
+DTSTART:20111003T110000Z
+DTEND:20111003T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -10-03-1300-21/\n
+DTSTAMP:20111009T004238Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-10-03-1
+ 300-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab7e7a4284955b745514346290ff7694d490382c
+DTSTART:20111004T060000Z
+DTEND:20111004T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/forelasning-2011
+ -10-04-0800-12/\n
+DTSTAMP:20111009T004231Z
+LOCATION:B2
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Föreläsning
+URL:https://www.kth.se/social/course/DD2393/event/forelasning-2011-10-04-0
+ 800-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:f44942e9b6b9baa27f327731999ad28193030c9c
+DTSTART:20111004T110000Z
+DTEND:20111004T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -10-04-1300-15/\n
+DTSTAMP:20111009T004249Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-10-04-1
+ 300-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:db83544cb5ec238fd995ce9c61c020754f257d4e
+DTSTART:20111005T110000Z
+DTEND:20111005T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 10-05-1300-20/\n
+DTSTAMP:20111009T010855Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-10-05-13
+ 00-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:3222cf798af356a5cdb11187cc200f9eef38925e
+DTSTART:20111006T060000Z
+DTEND:20111006T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/laboration-2011-
+ 10-06-0800-19/\n
+DTSTAMP:20110513T132044Z
+LOCATION:4V6Bru (Brun)
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Laboration
+URL:https://www.kth.se/social/course/DD2393/event/laboration-2011-10-06-08
+ 00-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:e232fdfd2a14030ec35a4f503fc291af8c791d81
+DTSTART:20111006T080000Z
+DTEND:20111006T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-0
+ 6-1000-6/\n
+DTSTAMP:20111009T004304Z
+LOCATION:Q13\, Q24
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-06-1000-6
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:c59e8ff6c1b68b07ad13aaa130264c5accbcf8df
+DTSTART:20111006T110000Z
+DTEND:20111006T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -10-06-1300-16/\n
+DTSTAMP:20111009T004249Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-10-06-1
+ 300-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6063dd506ef2b3fdd0b060a0137ff0a0240b09
+DTSTART:20111007T060000Z
+DTEND:20111007T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2380/event/forelasning-2011
+ -10-07-0800-6/\n
+DTSTAMP:20111009T004215Z
+LOCATION:Q1
+STATUS:CONFIRMED
+SUMMARY:Artificial Intelligence (DD2380) Föreläsning
+URL:https://www.kth.se/social/course/DD2380/event/forelasning-2011-10-07-0
+ 800-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:0659aa0788e4ac72e71142db14260b47de4f41c9
+DTSTART:20111007T080000Z
+DTEND:20111007T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-0
+ 7-1000-18/\n
+DTSTAMP:20111009T004304Z
+LOCATION:Q13\, Q24
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-07-1000-1
+ 8/
+END:VEVENT
+BEGIN:VEVENT
+UID:9653f046a217152c7f70f59a3a8334dfc3693b6c
+DTSTART:20111010T110000Z
+DTEND:20111010T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -10-10-1300-21/\n
+DTSTAMP:20111009T004245Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-10-10-1
+ 300-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:1159e87f4bbc1b935e39fb58bc3437779022925a
+DTSTART:20111011T110000Z
+DTEND:20111011T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -10-11-1300-18/\n
+DTSTAMP:20111009T004250Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-10-11-1
+ 300-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:a06423ca250b4563fac0a4cd456a8fa2c07547c6
+DTSTART:20111012T080000Z
+DTEND:20111012T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-1
+ 2-1000-9/\n
+DTSTAMP:20111009T004256Z
+LOCATION:L41\, L42
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-12-1000-9
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:d71f79423999a2a657b54e79612bf754da349810
+DTSTART:20111013T110000Z
+DTEND:20111013T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-1
+ 3-1300-15/\n
+DTSTAMP:20111009T004305Z
+LOCATION:D32\, D34
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-13-1300-1
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:3435dcba9a9a2f5f57a9c5ee458779b7358a712c
+DTSTART:20111020T120000Z
+DTEND:20111020T170000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2393/event/tentamen-2011-10
+ -20-1400-21/\n
+DTSTAMP:20111009T013058Z
+LOCATION:E31\, E32\, E33\, E34\, E35\, M21\, M36
+STATUS:CONFIRMED
+SUMMARY:Protocols and Principles of the Internet (DD2393) Tentamen
+URL:https://www.kth.se/social/course/DD2393/event/tentamen-2011-10-20-1400
+ -21/
+END:VEVENT
+BEGIN:VEVENT
+UID:73278adbce44f17b5574057b667cf0a461ab9c5c
+DTSTART:20111024T060000Z
+DTEND:20111024T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -10-24-0800/\n
+DTSTAMP:20111008T233232Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-10-24-0
+ 800/
+END:VEVENT
+BEGIN:VEVENT
+UID:63f2b586c077da8bba7ac53e26bc5e8d16e62385
+DTSTART:20111024T110000Z
+DTEND:20111024T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -10-24-1300-36/\n
+DTSTAMP:20111009T004251Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-10-24-1
+ 300-36/
+END:VEVENT
+BEGIN:VEVENT
+UID:42b82a7d779feebfa69d97203d5f1adc067c0294
+DTSTART:20111025T110000Z
+DTEND:20111025T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -10-25-1300-21/\n
+DTSTAMP:20111009T003034Z
+LOCATION:F2
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-10-25-1
+ 300-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:a821fc4391b52e6a8ffc235d137de3e2c8a790e2
+DTSTART:20111026T060000Z
+DTEND:20111026T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -10-26-0800-5/\n
+DTSTAMP:20111009T003034Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-10-26-0
+ 800-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7dc4902aa9d9628225254a61937c87db666a1f2
+DTSTART:20111026T080000Z
+DTEND:20111026T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -10-26-1000-31/\n
+DTSTAMP:20111009T004252Z
+LOCATION:L1
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-10-26-1
+ 000-31/
+END:VEVENT
+BEGIN:VEVENT
+UID:dabfda84323306d0b17ddcaf57d01b3d36ca7a29
+DTSTART:20111027T060000Z
+DTEND:20111027T080000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-2
+ 7-0800-11/\n
+DTSTAMP:20111009T003502Z
+LOCATION:D32\, D41
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-27-0800-1
+ 1/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb256ca248ec79945ad802c1fc78b0b39239c302
+DTSTART:20111027T120000Z
+DTEND:20111027T150000Z
+DESCRIPTION:https://www.kth.se/social/program/cdate/event/5076200-2/\n
+DTSTAMP:20110131T094519Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Civilingenjörsutb i datateknik (CDATE\, 300 hp) Info
+URL:https://www.kth.se/social/program/cdate/event/5076200-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3d25dfbafa3d35a640f48987cb85a66767b374
+DTSTART:20111027T130000Z
+DTEND:20111027T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-2
+ 7-1500-5/\n
+DTSTAMP:20111009T011056Z
+LOCATION:Q22\, Q26
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-10-27-1500-5
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:fae8c0812561ad92e21c1653306c2ee55731efcd
+DTSTART:20111031T070000Z
+DTEND:20111031T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -10-31-0800-21/\n
+DTSTAMP:20111009T011057Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-10-31-0
+ 800-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d4e3bb86af34fab86b675693be7769e6925a99
+DTSTART:20111031T140000Z
+DTEND:20111031T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -10-31-1500-5/\n
+DTSTAMP:20111009T003035Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-10-31-1
+ 500-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:c066e1e2af89d09d65ff43c839289aff0f1a9839
+DTSTART:20111101T090000Z
+DTEND:20111101T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -11-01-1000-15/\n
+DTSTAMP:20111009T003035Z
+LOCATION:Q1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-11-01-1
+ 000-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc122b5c74e0417114ec922b612b88029db4b9c
+DTSTART:20111102T090000Z
+DTEND:20111102T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-02-1000-28/\n
+DTSTAMP:20111009T004252Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-02-1
+ 000-28/
+END:VEVENT
+BEGIN:VEVENT
+UID:7569bcedf47eb0f4e3362c1bfd570f0af5522585
+DTSTART:20111103T070000Z
+DTEND:20111103T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-11-0
+ 3-0800-20/\n
+DTSTAMP:20111009T011058Z
+LOCATION:D41\, D42
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-11-03-0800-2
+ 0/
+END:VEVENT
+BEGIN:VEVENT
+UID:160ad82399aa9f7e740940fc8f41c3618c5f5c76
+DTSTART:20111103T120000Z
+DTEND:20111103T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-11-0
+ 3-1300-35/\n
+DTSTAMP:20111009T011058Z
+LOCATION:M22\, M38
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-11-03-1300-3
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:4733d3af8dac98dd969a4e6e75c1ece7b36d3768
+DTSTART:20111104T120000Z
+DTEND:20111104T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-04-1300-14/\n
+DTSTAMP:20111009T004252Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-04-1
+ 300-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa39cf879b2900a54ee28e3af4e1b04bd84728b4
+DTSTART:20111107T090000Z
+DTEND:20111107T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-07-1000-32/\n
+DTSTAMP:20111009T004253Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-07-1
+ 000-32/
+END:VEVENT
+BEGIN:VEVENT
+UID:a3d68fbb25c231689520b45007b79d6b29e2de75
+DTSTART:20111107T140000Z
+DTEND:20111107T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -11-07-1500-10/\n
+DTSTAMP:20111009T003035Z
+LOCATION:Q1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-11-07-1
+ 500-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae519b45e04aab18d04d31f30f2f5898daf85b22
+DTSTART:20111108T140000Z
+DTEND:20111108T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/5759760/\n
+DTSTAMP:20111009T013321Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/5759760/
+END:VEVENT
+BEGIN:VEVENT
+UID:6595eecb2ddc3f131d5f8f3f181d995a5a42bb9b
+DTSTART:20111109T090000Z
+DTEND:20111109T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/ovning-2011-11-0
+ 9-1000-15/\n
+DTSTAMP:20111009T001702Z
+LOCATION:Q26\, Q33
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Övning
+URL:https://www.kth.se/social/course/DA2210/event/ovning-2011-11-09-1000-1
+ 5/
+END:VEVENT
+BEGIN:VEVENT
+UID:64ef572b831b52beb498eca24b3ac58727f3972a
+DTSTART:20111110T120000Z
+DTEND:20111110T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -11-10-1300-11/\n
+DTSTAMP:20111009T003041Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-11-10-1
+ 300-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4611ae1c9b3467d93e64bf1f1fcc5f1212d2539
+DTSTART:20111111T090000Z
+DTEND:20111111T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-11-1000-19/\n
+DTSTAMP:20111009T004253Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-11-1
+ 000-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3898bd1d82ed0d7f229e80e80aa6417378740fb
+DTSTART:20111114T070000Z
+DTEND:20111114T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -11-14-0800-6/\n
+DTSTAMP:20111009T003036Z
+LOCATION:F1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-11-14-0
+ 800-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:750e16320d7ab26408f866f67f1ed178fb3e288d
+DTSTART:20111114T090000Z
+DTEND:20111114T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-14-1000-29/\n
+DTSTAMP:20111009T004253Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-14-1
+ 000-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:008142dc18361f76e6e1c673d2beee7e8e1db8bb
+DTSTART:20111115T070000Z
+DTEND:20111115T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -11-15-0800-21/\n
+DTSTAMP:20111009T011057Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-11-15-0
+ 800-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:941bdde12bc34d809722fd2fbcbd25de24c623f7
+DTSTART:20111115T110000Z
+DTEND:20111115T120000Z
+DESCRIPTION:https://www.kth.se/social/program/cdate/event/5335780/\n
+DTSTAMP:20110331T112920Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Civilingenjörsutb i datateknik (CDATE\, 300 hp) ARMADA 10-16
+URL:https://www.kth.se/social/program/cdate/event/5335780/
+END:VEVENT
+BEGIN:VEVENT
+UID:257ab162ed634e20b3c5cd17ead868da4e638392
+DTSTART:20111116T110000Z
+DTEND:20111116T120000Z
+DESCRIPTION:https://www.kth.se/social/program/cdate/event/5335800/\n
+DTSTAMP:20110331T112928Z
+LOCATION:
+STATUS:CONFIRMED
+SUMMARY:Civilingenjörsutb i datateknik (CDATE\, 300 hp) ARMADA 10-16
+URL:https://www.kth.se/social/program/cdate/event/5335800/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b140a5f009be7129370e8bbfef9b323c815a76d
+DTSTART:20111116T120000Z
+DTEND:20111116T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-16-1300-9/\n
+DTSTAMP:20111009T004254Z
+LOCATION:Q2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-16-1
+ 300-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:3786e0619f47bd5bdd390a88b50f7fec85730702
+DTSTART:20111117T120000Z
+DTEND:20111117T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -11-17-1300-9/\n
+DTSTAMP:20111009T003043Z
+LOCATION:F1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-11-17-1
+ 300-9/
+END:VEVENT
+BEGIN:VEVENT
+UID:552f49a697b6ffbb298c53d761041c2170ea3ec4
+DTSTART:20111117T140000Z
+DTEND:20111117T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/seminarium-2011-
+ 11-17-1500-4/\n
+DTSTAMP:20111009T011515Z
+LOCATION:Q22\, Q26
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Seminarium
+URL:https://www.kth.se/social/course/DA2210/event/seminarium-2011-11-17-15
+ 00-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:943c925cf4bd8637ae15f1bd7b34cd93989c75e3
+DTSTART:20111118T070000Z
+DTEND:20111118T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/seminarium-2011-
+ 11-18-0800/\n
+DTSTAMP:20111009T004257Z
+LOCATION:Q13\, Q15
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Seminarium
+URL:https://www.kth.se/social/course/DA2210/event/seminarium-2011-11-18-08
+ 00/
+END:VEVENT
+BEGIN:VEVENT
+UID:b44a03e12104450a5b4542bd00a00242c2d0d30d
+DTSTART:20111121T070000Z
+DTEND:20111121T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -11-21-0800-7/\n
+DTSTAMP:20111009T003036Z
+LOCATION:F1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-11-21-0
+ 800-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:f953e2e1403b6a7d669c0691358da74d3db74406
+DTSTART:20111121T120000Z
+DTEND:20111121T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-21-1300-22/\n
+DTSTAMP:20111009T004254Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-21-1
+ 300-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:79b24dcc594f20e0e8a23809ebad3bed09af3faf
+DTSTART:20111122T070000Z
+DTEND:20111122T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/forelasning-2011
+ -11-22-0800-26/\n
+DTSTAMP:20111009T012757Z
+LOCATION:B3
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Föreläsning
+URL:https://www.kth.se/social/course/DA2210/event/forelasning-2011-11-22-0
+ 800-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:16bf54b197b2851d04dfca0f9b7b0dbd99c4019e
+DTSTART:20111123T090000Z
+DTEND:20111123T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/seminarium-2011-
+ 11-23-1000-3/\n
+DTSTAMP:20111009T011517Z
+LOCATION:V32\, V34
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Seminarium
+URL:https://www.kth.se/social/course/DA2210/event/seminarium-2011-11-23-10
+ 00-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:556686245defe9809c087f435b4adcfe7189bf35
+DTSTART:20111123T120000Z
+DTEND:20111123T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DA2210/event/seminarium-2011-
+ 11-23-1300-6/\n
+DTSTAMP:20111009T004259Z
+LOCATION:D33\, D42
+STATUS:CONFIRMED
+SUMMARY:Introduction to the Philosophy of Science and Research Methodology
+  for Computer Scientists (DA2210) Seminarium
+URL:https://www.kth.se/social/course/DA2210/event/seminarium-2011-11-23-13
+ 00-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac02849fcefdfc76688a4c66ea1ac041dc07a91e
+DTSTART:20111124T120000Z
+DTEND:20111124T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/5753660/\n
+DTSTAMP:20111009T013308Z
+LOCATION:F1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/5753660/
+END:VEVENT
+BEGIN:VEVENT
+UID:7820eb1e6cf18e1f03e528d1c3727fb4007f8665
+DTSTART:20111129T120000Z
+DTEND:20111129T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -11-29-1300-6/\n
+DTSTAMP:20111009T003036Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-11-29-1
+ 300-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:eb7f969db0144210c132ee77d9b34b85d243b380
+DTSTART:20111130T090000Z
+DTEND:20111130T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2440/event/forelasning-2011
+ -11-30-1000-21/\n
+DTSTAMP:20111009T004255Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Advanced Algorithms (DD2440) Föreläsning
+URL:https://www.kth.se/social/course/DD2440/event/forelasning-2011-11-30-1
+ 000-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:3791b52dac0d197cee4ab8ec97bfae03c8a5d216
+DTSTART:20111201T120000Z
+DTEND:20111201T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -12-01-1300-7/\n
+DTSTAMP:20111009T003044Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-12-01-1
+ 300-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:0367fd4ba2ebc7ea74b31e1cf06ed03938e834d8
+DTSTART:20111205T070000Z
+DTEND:20111205T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -12-05-0800-2/\n
+DTSTAMP:20111009T003037Z
+LOCATION:F2
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-12-05-0
+ 800-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:2b52c9c67df30ac3b6c8236edfef9a11a331c833
+DTSTART:20111207T140000Z
+DTEND:20111207T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/forelasning-2011
+ -12-07-1500-5/\n
+DTSTAMP:20111009T003037Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Föreläsning
+URL:https://www.kth.se/social/course/DD2395/event/forelasning-2011-12-07-1
+ 500-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:3e42b97144ccba713abe40ccf570d6ccc52a8b28
+DTSTART:20120110T090000Z
+DTEND:20120110T120000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2395/event/tentamen-2012-01
+ -10-1000/\n
+DTSTAMP:20111125T140008Z
+LOCATION:L41\, L42\, L43\, L51\, L52\, Q17\, Q31\, Q33\, Q34\, Q36
+STATUS:CONFIRMED
+SUMMARY:Computer Security (DD2395) Tentamen
+URL:https://www.kth.se/social/course/DD2395/event/tentamen-2012-01-10-1000
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:829e873f60d17ddb52812afc05e8707963b6a829
+DTSTART:20120117T140000Z
+DTEND:20120117T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5972660/\n
+DTSTAMP:20120113T094029Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5972660/
+END:VEVENT
+BEGIN:VEVENT
+UID:14293f11ee57d63a36b332ee4d43fc1b157e78bd
+DTSTART:20120118T070000Z
+DTEND:20120118T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5858820/\n
+DTSTAMP:20111117T083626Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5858820/
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfed68c982ff1536f3482fce2b354e44863aa6f
+DTSTART:20120120T120000Z
+DTEND:20120120T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5858940/\n
+DTSTAMP:20111117T084250Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5858940/
+END:VEVENT
+BEGIN:VEVENT
+UID:d494a53b577faad4f626dc5968244bd527ef88b6
+DTSTART:20120120T140000Z
+DTEND:20120120T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5974760/\n
+DTSTAMP:20120113T135755Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5974760/
+END:VEVENT
+BEGIN:VEVENT
+UID:60e79461d25bd642c6222064c115b938bdd2c729
+DTSTART:20120124T090000Z
+DTEND:20120124T110000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728740/\n
+DTSTAMP:20111119T004155Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728740/
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d2387e44df94fddf0fb3b5f74b6e22feb70c48
+DTSTART:20120124T120000Z
+DTEND:20120124T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728820/\n
+DTSTAMP:20111119T004159Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728820/
+END:VEVENT
+BEGIN:VEVENT
+UID:b57a58355d288d7bb9ef795dbc26bd5795672dc0
+DTSTART:20120125T140000Z
+DTEND:20120125T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5973000/\n
+DTSTAMP:20120113T101936Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5973000/
+END:VEVENT
+BEGIN:VEVENT
+UID:845842e07b48b6a61db33378e1a623e4884d4853
+DTSTART:20120126T120000Z
+DTEND:20120126T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5975060/\n
+DTSTAMP:20120116T072053Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5975060/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8dabe8c8d2b04ea9213f3768b005060d77e20e
+DTSTART:20120127T120000Z
+DTEND:20120127T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728890/\n
+DTSTAMP:20111119T004202Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728890/
+END:VEVENT
+BEGIN:VEVENT
+UID:e639d14fdd923bd14b26569fad29e24c03e67fe5
+DTSTART:20120127T140000Z
+DTEND:20120127T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5974830/\n
+DTSTAMP:20120113T135858Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5974830/
+END:VEVENT
+BEGIN:VEVENT
+UID:86b7c1c80cfb9fd09084572eab04b940738727d0
+DTSTART:20120130T070000Z
+DTEND:20120130T090000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728830/\n
+DTSTAMP:20111119T004159Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728830/
+END:VEVENT
+BEGIN:VEVENT
+UID:885ae90d7a69dc14c4208d474309cb728f74b6bf
+DTSTART:20120130T120000Z
+DTEND:20120130T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5972690/\n
+DTSTAMP:20120113T094234Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5972690/
+END:VEVENT
+BEGIN:VEVENT
+UID:d5b5e2ff300eef808e68057745196c51a16a6b37
+DTSTART:20120131T090000Z
+DTEND:20120131T110000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728750/\n
+DTSTAMP:20111119T004156Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728750/
+END:VEVENT
+BEGIN:VEVENT
+UID:0a141ac3baf217869a1c5b204cd000152a5924d7
+DTSTART:20120131T120000Z
+DTEND:20120131T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728790/\n
+DTSTAMP:20111119T004157Z
+LOCATION:Ka-SalD (Ka Forum sal D)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728790/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c68e5ab3ccce3c4692b042ca4e7063467bb9e9
+DTSTART:20120201T090000Z
+DTEND:20120201T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5858980/\n
+DTSTAMP:20111117T085853Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5858980/
+END:VEVENT
+BEGIN:VEVENT
+UID:3943a4f93cf0660bb879acc63929a2c9b13be959
+DTSTART:20120201T120000Z
+DTEND:20120201T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5734330/\n
+DTSTAMP:20111101T130437Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5734330/
+END:VEVENT
+BEGIN:VEVENT
+UID:c8ea4fd51e9d91e23978c800cd54f7a598953157
+DTSTART:20120203T090000Z
+DTEND:20120203T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5975070/\n
+DTSTAMP:20120116T072415Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5975070/
+END:VEVENT
+BEGIN:VEVENT
+UID:0e8944274653109513ffbe08f07bfbd9a1c8bde5
+DTSTART:20120204T090000Z
+DTEND:20120204T120000Z
+DESCRIPTION:https://www.kth.se/social/course/DN1241/event/5424160/\n
+DTSTAMP:20111101T125448Z
+LOCATION:D32\, D33\, D34\, D35\, E1\, E31\, E32\, E33\, E34\, E35\, E36\, 
+ E51
+STATUS:CONFIRMED
+SUMMARY:Numerical Methods\, Basic Course III (DN1241) Tentamen
+URL:https://www.kth.se/social/course/DN1241/event/5424160/
+END:VEVENT
+BEGIN:VEVENT
+UID:48948a5ce1dd7f1b04b9126cf68d25e84bbe479f
+DTSTART:20120206T120000Z
+DTEND:20120206T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5972700/\n
+DTSTAMP:20120113T094337Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5972700/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c0bac5b5cd315b8b25700bd739601a93f1ab62
+DTSTART:20120207T090000Z
+DTEND:20120207T110000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728760/\n
+DTSTAMP:20111119T004156Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728760/
+END:VEVENT
+BEGIN:VEVENT
+UID:a39c9431988723417412d4ae63d94f259d164feb
+DTSTART:20120207T120000Z
+DTEND:20120207T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728870/\n
+DTSTAMP:20111119T004201Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728870/
+END:VEVENT
+BEGIN:VEVENT
+UID:a05fe77d17de57be685f069c2abfaf41e22125de
+DTSTART:20120208T090000Z
+DTEND:20120208T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859050/\n
+DTSTAMP:20111117T090000Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859050/
+END:VEVENT
+BEGIN:VEVENT
+UID:a554e387cebf0aa4ccdc5f7451c93c8ef362283c
+DTSTART:20120208T120000Z
+DTEND:20120208T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5734340/\n
+DTSTAMP:20111101T131632Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5734340/
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd6a75a457c94ed110a9b741e367c179262fb99
+DTSTART:20120209T120000Z
+DTEND:20120209T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5975100/\n
+DTSTAMP:20120116T073118Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5975100/
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3148e9c69ae33193ad87f4e524b7f1f04d41bf
+DTSTART:20120209T120000Z
+DTEND:20120209T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728840/\n
+DTSTAMP:20111119T004200Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728840/
+END:VEVENT
+BEGIN:VEVENT
+UID:68368337f473aae4ae7eadc76a2014005541d8dc
+DTSTART:20120211T130000Z
+DTEND:20120211T180000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1901/event/5422460/\n
+DTSTAMP:20111101T122457Z
+LOCATION:F1\, L21\, L22\, L41\, L42\, L51\, L52\, Q11\, Q13\, Q15\, Q17\, 
+ Q21\, Q22\, Q24\, Q26\, Q31\, Q33\, Q34\, Q36\, V01\, V11\, V12\, V22\, V3
+ 2\, V33\, V35
+STATUS:CONFIRMED
+SUMMARY:Probability Theory and Statistics (SF1901) Tentamen.A
+URL:https://www.kth.se/social/course/SF1901/event/5422460/
+END:VEVENT
+BEGIN:VEVENT
+UID:945c9eb395abf3be4276123ef70b4f1ab64ae1f0
+DTSTART:20120213T120000Z
+DTEND:20120213T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5972710/\n
+DTSTAMP:20120113T094441Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5972710/
+END:VEVENT
+BEGIN:VEVENT
+UID:53518f430c17a215948921c4b82d49eaa39a41f4
+DTSTART:20120214T090000Z
+DTEND:20120214T110000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728770/\n
+DTSTAMP:20111119T004157Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728770/
+END:VEVENT
+BEGIN:VEVENT
+UID:6e23eb81fbcfb898479ece5d71b2618d0e78885c
+DTSTART:20120214T120000Z
+DTEND:20120214T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728800/\n
+DTSTAMP:20111119T004158Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728800/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad01eae9f34646e840dc9e325786f7ab01731afe
+DTSTART:20120215T120000Z
+DTEND:20120215T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5734350/\n
+DTSTAMP:20111101T131646Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5734350/
+END:VEVENT
+BEGIN:VEVENT
+UID:e96953542e10175923208194d054ffdc2635547d
+DTSTART:20120216T090000Z
+DTEND:20120216T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5975110/\n
+DTSTAMP:20120116T073331Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5975110/
+END:VEVENT
+BEGIN:VEVENT
+UID:71c1b4b6a1b2cc78b702a7fe3609bbfc810c6c26
+DTSTART:20120216T140000Z
+DTEND:20120216T160000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728850/\n
+DTSTAMP:20111119T004200Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728850/
+END:VEVENT
+BEGIN:VEVENT
+UID:3f02724b66893dba16fdad441ace6c10f3309f91
+DTSTART:20120217T120000Z
+DTEND:20120217T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859060/\n
+DTSTAMP:20111117T090000Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859060/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1984cc2bd9aa5b9a823c3e24421f4907a7d96a5
+DTSTART:20120218T080000Z
+DTEND:20120218T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1631/event/5468710-5/\n
+DTSTAMP:20111101T122501Z
+LOCATION:Q11\, Q13\, Q15\, Q17\, Q22\, Q24\, Q26\, Q31\, Q33\, Q34\, Q36
+STATUS:CONFIRMED
+SUMMARY:Discrete Mathematics (SF1631) Tentamen.B
+URL:https://www.kth.se/social/course/SF1631/event/5468710-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:fad58e1d01b83e57a39d614f85e7ea9e907900de
+DTSTART:20120220T070000Z
+DTEND:20120220T090000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728860/\n
+DTSTAMP:20111119T004201Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728860/
+END:VEVENT
+BEGIN:VEVENT
+UID:9241d84f28e28683fd423da1f46a64783e2a41bd
+DTSTART:20120220T120000Z
+DTEND:20120220T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5972720/\n
+DTSTAMP:20120113T094544Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5972720/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b0f47a09d6321176b325a6a1a3eedaa104930ff
+DTSTART:20120221T090000Z
+DTEND:20120221T110000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728780/\n
+DTSTAMP:20111119T004157Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728780/
+END:VEVENT
+BEGIN:VEVENT
+UID:044c592ac7fb1b446f46c5134d6ad6d6cd17bb68
+DTSTART:20120221T120000Z
+DTEND:20120221T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5728880/\n
+DTSTAMP:20111119T004201Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5728880/
+END:VEVENT
+BEGIN:VEVENT
+UID:16020effc64ec9fa6c880b22687924117a962176
+DTSTART:20120221T140000Z
+DTEND:20120221T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859100/\n
+DTSTAMP:20111117T085633Z
+LOCATION:4V4Gul (Gul)\, 4V6Bru (Brun)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859100/
+END:VEVENT
+BEGIN:VEVENT
+UID:fb63a0f47d5bdbcc6abb647ba6b9bedc24597ef4
+DTSTART:20120222T120000Z
+DTEND:20120222T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859080/\n
+DTSTAMP:20111117T085117Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859080/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e6b3aba3669f0873441c218bacecbd9c701c90c
+DTSTART:20120222T120000Z
+DTEND:20120222T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5734360/\n
+DTSTAMP:20111101T131752Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5734360/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e65b2cd9562d075bf1cf98e7b317acae5e7da7
+DTSTART:20120223T120000Z
+DTEND:20120223T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859090/\n
+DTSTAMP:20111117T085219Z
+LOCATION:4V4Gul (Gul)\, 4V6Bru (Brun)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859090/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad8340eafbb02248e4281af395df014c4d635517
+DTSTART:20120227T120000Z
+DTEND:20120227T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5972730/\n
+DTSTAMP:20120113T094544Z
+LOCATION:D3
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Föreläsning
+URL:https://www.kth.se/social/course/DD2390/event/5972730/
+END:VEVENT
+BEGIN:VEVENT
+UID:9e2407b67ac82d94f0f3f635ce2f7cc9cd822aaf
+DTSTART:20120228T090000Z
+DTEND:20120228T110000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/forelasning-2012
+ -01-17-1000-35/\n
+DTSTAMP:20111119T004155Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/forelasning-2012-01-17-1
+ 000-35/
+END:VEVENT
+BEGIN:VEVENT
+UID:be6c086eca98b89085db20eb34c409748e8445db
+DTSTART:20120228T120000Z
+DTEND:20120228T140000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5791150/\n
+DTSTAMP:20111119T004202Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/5791150/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7d61f9ab8367d02fc5e8673fea00308c78aad1
+DTSTART:20120228T140000Z
+DTEND:20120228T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859110/\n
+DTSTAMP:20111117T090000Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859110/
+END:VEVENT
+BEGIN:VEVENT
+UID:1aaf3bfc583b4398fbd83117c4a0c7c1d6a5cc4c
+DTSTART:20120229T070000Z
+DTEND:20120229T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859130/\n
+DTSTAMP:20111117T085918Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859130/
+END:VEVENT
+BEGIN:VEVENT
+UID:2c722ec07a732840e81626bd9c9191d1c2cc67f7
+DTSTART:20120229T090000Z
+DTEND:20120229T110000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/forelasning-2012
+ -01-19-1300-23/\n
+DTSTAMP:20111119T004158Z
+LOCATION:Ka-SalE (Ka Forum sal E)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Föreläsning
+URL:https://www.kth.se/social/course/ID1217/event/forelasning-2012-01-19-1
+ 300-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:7dceb810cefc12654f8b96984246a71a801ba49e
+DTSTART:20120229T120000Z
+DTEND:20120229T140000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5734380/\n
+DTSTAMP:20111101T122505Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5734380/
+END:VEVENT
+BEGIN:VEVENT
+UID:29d63bbe9fe4f9d813648318580b906c005f0b7d
+DTSTART:20120302T090000Z
+DTEND:20120302T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2390/event/5859120/\n
+DTSTAMP:20111117T085906Z
+LOCATION:5O1Spe (Spelhallen)\, 5O2Spo (Sporthallen)
+STATUS:CONFIRMED
+SUMMARY:Internet Programming (DD2390) Laboration
+URL:https://www.kth.se/social/course/DD2390/event/5859120/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d8368a52fd6887dbb08f2d136c7e5bd166a9381
+DTSTART:20120315T130000Z
+DTEND:20120315T180000Z
+DESCRIPTION:https://www.kth.se/social/course/ID1217/event/5729000/\n
+DTSTAMP:20111119T004203Z
+LOCATION:Ka-431 (Ka-FORUM 431)\, Ka-438 (Ka-FORUM 438)\, Ka-439 (Ka-FORUM 
+ 439)\, Ka-530 (Ka-Forum 530)
+STATUS:CONFIRMED
+SUMMARY:Concurrent Programming (ID1217) Tentamen
+URL:https://www.kth.se/social/course/ID1217/event/5729000/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8f863a74be5e432fa5b855d76df900d43497f8
+DTSTART:20120319T120000Z
+DTEND:20120319T140000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545070/\n
+DTSTAMP:20111101T135310Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545070/
+END:VEVENT
+BEGIN:VEVENT
+UID:decb23d8b5b4fc219b9e72baca54ba9bd0961d2d
+DTSTART:20120320T090000Z
+DTEND:20120320T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545080/\n
+DTSTAMP:20111101T135310Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545080/
+END:VEVENT
+BEGIN:VEVENT
+UID:325cb80beb2455d8cbad755f048aa363ac846d3d
+DTSTART:20120320T120000Z
+DTEND:20120320T140000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545490/\n
+DTSTAMP:20111101T135311Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545490/
+END:VEVENT
+BEGIN:VEVENT
+UID:f3d9f3410a0d3a768013bfebe23afd955a9f9e92
+DTSTART:20120320T120000Z
+DTEND:20120320T140000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545280/\n
+DTSTAMP:20111101T135310Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545280/
+END:VEVENT
+BEGIN:VEVENT
+UID:91a209008c88529ef8010bf82903bc9687c4ec21
+DTSTART:20120321T070000Z
+DTEND:20120321T090000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5820900/\n
+DTSTAMP:20111101T122511Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5820900/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf65141717e69677829606ba82561dd0cbda8882
+DTSTART:20120321T090000Z
+DTEND:20120321T110000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721470/\n
+DTSTAMP:20111101T122512Z
+LOCATION:Q13
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5721470/
+END:VEVENT
+BEGIN:VEVENT
+UID:2d2a46ac68ff476e608fb6c81ec1607bab7583ed
+DTSTART:20120321T090000Z
+DTEND:20120321T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545210/\n
+DTSTAMP:20111101T140304Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545210/
+END:VEVENT
+BEGIN:VEVENT
+UID:36986bfbf6f41b8d44eaa93bc0e47804ca155145
+DTSTART:20120321T120000Z
+DTEND:20120321T140000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545290/\n
+DTSTAMP:20111101T140304Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545290/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5bc7af5a83cb66a5a874cf16854a529756bbeaf
+DTSTART:20120321T120000Z
+DTEND:20120321T140000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545770/\n
+DTSTAMP:20111101T140304Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545770/
+END:VEVENT
+BEGIN:VEVENT
+UID:920e7608a7bdeb27bf36757ef918eb023fc9ae72
+DTSTART:20120322T140000Z
+DTEND:20120322T160000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5800560/\n
+DTSTAMP:20111101T122513Z
+LOCATION:L41
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5800560/
+END:VEVENT
+BEGIN:VEVENT
+UID:211ce4a6f48700a2769ea9da40b4c8435ca4bd92
+DTSTART:20120326T080000Z
+DTEND:20120326T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5546040/\n
+DTSTAMP:20111101T140308Z
+LOCATION:V01\, V11\, V21\, V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Seminarium
+URL:https://www.kth.se/social/course/SF1626/event/5546040/
+END:VEVENT
+BEGIN:VEVENT
+UID:baecd0323cd69576d9657fda4a7a4d8ce9a30a85
+DTSTART:20120326T110000Z
+DTEND:20120326T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545090/\n
+DTSTAMP:20111101T140308Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545090/
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a6d20a4b106b2e6a197f148516e6f60f6ba698
+DTSTART:20120327T080000Z
+DTEND:20120327T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545100/\n
+DTSTAMP:20111101T140313Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545100/
+END:VEVENT
+BEGIN:VEVENT
+UID:4601d13c787bea571878d6c657605145085ec6c8
+DTSTART:20120327T110000Z
+DTEND:20120327T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545500/\n
+DTSTAMP:20111101T140313Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545500/
+END:VEVENT
+BEGIN:VEVENT
+UID:222dd8e1a42110aee52d79753db3c48602e70830
+DTSTART:20120327T110000Z
+DTEND:20120327T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545300/\n
+DTSTAMP:20111101T140313Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545300/
+END:VEVENT
+BEGIN:VEVENT
+UID:321b7151874f81d9b1ccba3c5bc3f510dadfce6d
+DTSTART:20120328T080000Z
+DTEND:20120328T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721480/\n
+DTSTAMP:20111101T122514Z
+LOCATION:Q24
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5721480/
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fffca8fc6db662f527dd7dab563b287f822750
+DTSTART:20120328T080000Z
+DTEND:20120328T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545220/\n
+DTSTAMP:20111101T140313Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545220/
+END:VEVENT
+BEGIN:VEVENT
+UID:b09ec5d28a56cdf7b9316cf0f942011c7f073027
+DTSTART:20120328T110000Z
+DTEND:20120328T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5820910/\n
+DTSTAMP:20111101T122514Z
+LOCATION:E2
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5820910/
+END:VEVENT
+BEGIN:VEVENT
+UID:36bb72353a5c43c739b4b5defe6bacb742d88927
+DTSTART:20120328T110000Z
+DTEND:20120328T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545310/\n
+DTSTAMP:20111101T140316Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545310/
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a7bba6a57875f2d0915a9749846e86a47979bb
+DTSTART:20120328T110000Z
+DTEND:20120328T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545780/\n
+DTSTAMP:20111101T140316Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545780/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4e4422d0023d49ab1f7d8bfcfbbe9a1377e2ed
+DTSTART:20120329T130000Z
+DTEND:20120329T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5800690/\n
+DTSTAMP:20111101T122516Z
+LOCATION:Q13
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5800690/
+END:VEVENT
+BEGIN:VEVENT
+UID:5588d99cdcb901c93657f7e8a40241805062282f
+DTSTART:20120403T110000Z
+DTEND:20120403T150000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/5855760/\n
+DTSTAMP:20111116T091120Z
+LOCATION:Newton
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/5855760/
+END:VEVENT
+BEGIN:VEVENT
+UID:86b8cce25c8a22273a28eb6a2d6fd812c2b171f2
+DTSTART:20120410T080000Z
+DTEND:20120410T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2488/event/5734390/\n
+DTSTAMP:20111101T122517Z
+LOCATION:E3
+STATUS:CONFIRMED
+SUMMARY:Compiler Construction (DD2488) Föreläsning
+URL:https://www.kth.se/social/course/DD2488/event/5734390/
+END:VEVENT
+BEGIN:VEVENT
+UID:c823825824e9cc56545eaf9729068aad8f3717c2
+DTSTART:20120410T110000Z
+DTEND:20120410T150000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/5855770/\n
+DTSTAMP:20111116T091124Z
+LOCATION:Newton
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/5855770/
+END:VEVENT
+BEGIN:VEVENT
+UID:aecdbef17f78bad08586f9b4792f41f6b60c2670
+DTSTART:20120411T080000Z
+DTEND:20120411T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721490/\n
+DTSTAMP:20111101T122518Z
+LOCATION:Q24
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5721490/
+END:VEVENT
+BEGIN:VEVENT
+UID:27a04a62296d19c44d8a9af5e720c28bea02859b
+DTSTART:20120412T080000Z
+DTEND:20120412T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545920/\n
+DTSTAMP:20111101T141111Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545920/
+END:VEVENT
+BEGIN:VEVENT
+UID:3c9d8b1842f07b180c34716434adc7c07d6dbcf3
+DTSTART:20120412T110000Z
+DTEND:20120412T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5801070/\n
+DTSTAMP:20111101T122520Z
+LOCATION:4V6Bru (Brun)
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Laboration
+URL:https://www.kth.se/social/course/DD2495/event/5801070/
+END:VEVENT
+BEGIN:VEVENT
+UID:97b8e9e9b6c5c1ddeac51df2d25f9829d06e12e1
+DTSTART:20120413T080000Z
+DTEND:20120413T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545890/\n
+DTSTAMP:20111101T141113Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545890/
+END:VEVENT
+BEGIN:VEVENT
+UID:e34f54d77be72f77206de341a9fe45541b4b2f19
+DTSTART:20120413T110000Z
+DTEND:20120413T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545910/\n
+DTSTAMP:20111101T141113Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545910/
+END:VEVENT
+BEGIN:VEVENT
+UID:8aaa5afc7ed0ea65ab33402daaf29604f2c3eec2
+DTSTART:20120413T110000Z
+DTEND:20120413T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545900/\n
+DTSTAMP:20111101T141113Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545900/
+END:VEVENT
+BEGIN:VEVENT
+UID:5dbacb5f0c6fbcba527ee05d33369b25ab6502af
+DTSTART:20120417T080000Z
+DTEND:20120417T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545230/\n
+DTSTAMP:20111101T141117Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545230/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f791cb9971353d3133d6c75db182a632c15909
+DTSTART:20120417T110000Z
+DTEND:20120417T150000Z
+DESCRIPTION:https://www.kth.se/social/course/LI1021/event/5855780/\n
+DTSTAMP:20111116T091129Z
+LOCATION:Newton
+STATUS:CONFIRMED
+SUMMARY:Information Searching (LI1021) Laboration
+URL:https://www.kth.se/social/course/LI1021/event/5855780/
+END:VEVENT
+BEGIN:VEVENT
+UID:7dec798216cbabdbd02cc5c8e939c79773d79230
+DTSTART:20120417T110000Z
+DTEND:20120417T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545520/\n
+DTSTAMP:20111101T141117Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545520/
+END:VEVENT
+BEGIN:VEVENT
+UID:69b6d4b4969b0cd8be88aba7c538baf0622a0e2a
+DTSTART:20120417T110000Z
+DTEND:20120417T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545340/\n
+DTSTAMP:20111101T141117Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545340/
+END:VEVENT
+BEGIN:VEVENT
+UID:961995759e4cbcd7cda9cd1399a03055a6fb379f
+DTSTART:20120417T130000Z
+DTEND:20120417T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5800710/\n
+DTSTAMP:20111101T122525Z
+LOCATION:Q11
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5800710/
+END:VEVENT
+BEGIN:VEVENT
+UID:8c5fe2d2556e085cd3d945aaa101637fb721dc7a
+DTSTART:20120418T080000Z
+DTEND:20120418T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721500/\n
+DTSTAMP:20111101T122525Z
+LOCATION:Q24
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5721500/
+END:VEVENT
+BEGIN:VEVENT
+UID:11701b1e81a4457e97794a398ccce6755127cfbf
+DTSTART:20120418T110000Z
+DTEND:20120418T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721530/\n
+DTSTAMP:20111101T122525Z
+LOCATION:4V3Ora (Orange)
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Laboration
+URL:https://www.kth.se/social/course/DD2495/event/5721530/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f249815bc44f045d9ca4b26d61977be97ada599
+DTSTART:20120419T080000Z
+DTEND:20120419T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5546060/\n
+DTSTAMP:20111101T142046Z
+LOCATION:V01\, V11\, V21\, V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Seminarium
+URL:https://www.kth.se/social/course/SF1626/event/5546060/
+END:VEVENT
+BEGIN:VEVENT
+UID:d58b3355e7d6b80bcd7d193f465288c2c3b6ea66
+DTSTART:20120420T080000Z
+DTEND:20120420T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545130/\n
+DTSTAMP:20111101T142046Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545130/
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a382467e26e70586d1d9f681003ecde5de5f26
+DTSTART:20120424T080000Z
+DTEND:20120424T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5546340/\n
+DTSTAMP:20111101T142049Z
+LOCATION:E1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5546340/
+END:VEVENT
+BEGIN:VEVENT
+UID:718040d93db1c9d39dd68e7e2b8f7b4a0d3e239c
+DTSTART:20120424T110000Z
+DTEND:20120424T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5546360/\n
+DTSTAMP:20111101T142052Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5546360/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f79a79ad7bb5d101241e20e7e5db86d64be641
+DTSTART:20120424T110000Z
+DTEND:20120424T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5546350/\n
+DTSTAMP:20111101T142052Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5546350/
+END:VEVENT
+BEGIN:VEVENT
+UID:77b33ff43687afcce1f0d2b27192146d5f946f6d
+DTSTART:20120424T130000Z
+DTEND:20120424T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5800830/\n
+DTSTAMP:20111101T122530Z
+LOCATION:Q11
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5800830/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae5f3b556f6c0d46f138c79f4a2fe88fa4273e64
+DTSTART:20120425T080000Z
+DTEND:20120425T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721510/\n
+DTSTAMP:20111101T122530Z
+LOCATION:Q24
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5721510/
+END:VEVENT
+BEGIN:VEVENT
+UID:00646b0a84932513ed2569a0c4bab1759a81658c
+DTSTART:20120425T080000Z
+DTEND:20120425T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545240/\n
+DTSTAMP:20111101T142052Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545240/
+END:VEVENT
+BEGIN:VEVENT
+UID:3231ff6e001ad269774bd2e5c80a719a1488aa39
+DTSTART:20120425T110000Z
+DTEND:20120425T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545350/\n
+DTSTAMP:20111101T142052Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545350/
+END:VEVENT
+BEGIN:VEVENT
+UID:93605bd5ddcf5da9c156f5fd99e8a30f6fcd65d4
+DTSTART:20120425T110000Z
+DTEND:20120425T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545790/\n
+DTSTAMP:20111101T142052Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545790/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff81820423ad05220e4ec952cc72cbfdb42cb5c
+DTSTART:20120427T110000Z
+DTEND:20120427T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721550/\n
+DTSTAMP:20111101T122531Z
+LOCATION:4V3Ora (Orange)
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Laboration
+URL:https://www.kth.se/social/course/DD2495/event/5721550/
+END:VEVENT
+BEGIN:VEVENT
+UID:2455070af2bdc8bf9f2423d16f95f248a139438d
+DTSTART:20120502T080000Z
+DTEND:20120502T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721520/\n
+DTSTAMP:20111101T122531Z
+LOCATION:Q24
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5721520/
+END:VEVENT
+BEGIN:VEVENT
+UID:5be46c706cb6184df9a1a3bfb0df7b4dd44335f9
+DTSTART:20120502T110000Z
+DTEND:20120502T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545170/\n
+DTSTAMP:20111101T143005Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545170/
+END:VEVENT
+BEGIN:VEVENT
+UID:98873654d867e3843bdd3105a47581a83bb73c06
+DTSTART:20120503T110000Z
+DTEND:20120503T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545180/\n
+DTSTAMP:20111101T143005Z
+LOCATION:Q1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545180/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5aad91877906918632adee107995b2f144eaed
+DTSTART:20120503T130000Z
+DTEND:20120503T150000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545840/\n
+DTSTAMP:20111101T143006Z
+LOCATION:Q31
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545840/
+END:VEVENT
+BEGIN:VEVENT
+UID:01c3e6a2e9841806675764ab22b287ea65150141
+DTSTART:20120503T130000Z
+DTEND:20120503T150000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545380/\n
+DTSTAMP:20111101T143005Z
+LOCATION:Q15\, Q17\, Q22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545380/
+END:VEVENT
+BEGIN:VEVENT
+UID:2fefc63274992c55faad104d50b8f805dbdbc695
+DTSTART:20120504T110000Z
+DTEND:20120504T150000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5721560/\n
+DTSTAMP:20111101T122535Z
+LOCATION:4V3Ora (Orange)
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Laboration
+URL:https://www.kth.se/social/course/DD2495/event/5721560/
+END:VEVENT
+BEGIN:VEVENT
+UID:5329a7f8719321288bd1b79b077571d22fc1e0de
+DTSTART:20120507T080000Z
+DTEND:20120507T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545260/\n
+DTSTAMP:20111101T143009Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545260/
+END:VEVENT
+BEGIN:VEVENT
+UID:471d49d2b78fcf7ee001e0337dacaf78664074d5
+DTSTART:20120507T110000Z
+DTEND:20120507T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545810/\n
+DTSTAMP:20111101T143009Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545810/
+END:VEVENT
+BEGIN:VEVENT
+UID:e5459b3ccc97ed6035b154e0e2325079480c7853
+DTSTART:20120507T110000Z
+DTEND:20120507T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545390/\n
+DTSTAMP:20111101T143009Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545390/
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c917e8bfe3871632366ab0d1f4dd1a5ea1db84
+DTSTART:20120508T080000Z
+DTEND:20120508T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5801090/\n
+DTSTAMP:20111101T122536Z
+LOCATION:Q13
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5801090/
+END:VEVENT
+BEGIN:VEVENT
+UID:06324009ac4d773d689f04cc41f28b0a537a70d2
+DTSTART:20120508T080000Z
+DTEND:20120508T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5546070/\n
+DTSTAMP:20111101T143011Z
+LOCATION:V01\, V11\, V21\, V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Seminarium
+URL:https://www.kth.se/social/course/SF1626/event/5546070/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ff2503a7ecf3b7c9fa93c08edfcb45ab0c4845e
+DTSTART:20120508T110000Z
+DTEND:20120508T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545190/\n
+DTSTAMP:20111101T143011Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545190/
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc6a39e6848c39cc8e01f332ba4da6a9162631e
+DTSTART:20120509T080000Z
+DTEND:20120509T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545200/\n
+DTSTAMP:20111101T143011Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545200/
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd88eaf54148744e45698370f754db2a1c0b451
+DTSTART:20120509T110000Z
+DTEND:20120509T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545550/\n
+DTSTAMP:20111101T143016Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545550/
+END:VEVENT
+BEGIN:VEVENT
+UID:821feb741bbef872b7a768a3a9162298bc016ce3
+DTSTART:20120509T110000Z
+DTEND:20120509T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545400/\n
+DTSTAMP:20111101T143016Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545400/
+END:VEVENT
+BEGIN:VEVENT
+UID:836ab36a0c868de0e734f3bceefa32d880f9f485
+DTSTART:20120510T080000Z
+DTEND:20120510T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545270/\n
+DTSTAMP:20111101T143016Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545270/
+END:VEVENT
+BEGIN:VEVENT
+UID:6da97e52473e0de192bffada0fc65338fefe3e5a
+DTSTART:20120510T110000Z
+DTEND:20120510T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545420/\n
+DTSTAMP:20111101T143016Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545420/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1220157d2683c31af012b53e085e6be9d15a19
+DTSTART:20120510T110000Z
+DTEND:20120510T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545820/\n
+DTSTAMP:20111101T143016Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545820/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca41670bf822f92e763a912db6930abf0ac3363
+DTSTART:20120514T080000Z
+DTEND:20120514T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5546080/\n
+DTSTAMP:20111101T143019Z
+LOCATION:V01\, V11\, V21\, V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Seminarium
+URL:https://www.kth.se/social/course/SF1626/event/5546080/
+END:VEVENT
+BEGIN:VEVENT
+UID:4e590b6c27f995cd391fb84541ca1d66564860ed
+DTSTART:20120514T110000Z
+DTEND:20120514T130000Z
+DESCRIPTION:https://www.kth.se/social/course/DD2495/event/5801110/\n
+DTSTAMP:20111101T122538Z
+LOCATION:B24
+STATUS:CONFIRMED
+SUMMARY:Network Security (DD2495) Föreläsning
+URL:https://www.kth.se/social/course/DD2495/event/5801110/
+END:VEVENT
+BEGIN:VEVENT
+UID:9637c166df95b05cba74d3a7d30a5b27b14ad821
+DTSTART:20120514T110000Z
+DTEND:20120514T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545150/\n
+DTSTAMP:20111101T143019Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545150/
+END:VEVENT
+BEGIN:VEVENT
+UID:be6a97fef27335a42a3103a1906602e9abb9f0e0
+DTSTART:20120516T080000Z
+DTEND:20120516T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545250/\n
+DTSTAMP:20111101T144449Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545250/
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd7084d74e2f934ca0d969650f6c34cba8ce28e
+DTSTART:20120516T110000Z
+DTEND:20120516T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545800/\n
+DTSTAMP:20111101T144448Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545800/
+END:VEVENT
+BEGIN:VEVENT
+UID:e78b19389a33be93fc0da8f4ee247d41f88e8946
+DTSTART:20120516T110000Z
+DTEND:20120516T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545370/\n
+DTSTAMP:20111101T144448Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545370/
+END:VEVENT
+BEGIN:VEVENT
+UID:8113a3085bd2337980772e119a9e0dee897e7756
+DTSTART:20120522T080000Z
+DTEND:20120522T100000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545160/\n
+DTSTAMP:20111101T144452Z
+LOCATION:D1
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Föreläsning
+URL:https://www.kth.se/social/course/SF1626/event/5545160/
+END:VEVENT
+BEGIN:VEVENT
+UID:658cb7317328e8c2dd44b6dd5bc40cff880d25ff
+DTSTART:20120522T110000Z
+DTEND:20120522T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545530/\n
+DTSTAMP:20111101T144453Z
+LOCATION:V22
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545530/
+END:VEVENT
+BEGIN:VEVENT
+UID:2f64525c9c73ef9f00517946b73bf1071819e149
+DTSTART:20120522T110000Z
+DTEND:20120522T130000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1626/event/5545360/\n
+DTSTAMP:20111101T144452Z
+LOCATION:V01\, V11\, V21
+STATUS:CONFIRMED
+SUMMARY:Calculus in Several Variable (SF1626) Övning
+URL:https://www.kth.se/social/course/SF1626/event/5545360/
+END:VEVENT
+BEGIN:VEVENT
+UID:505f3a4abeb961412cc161c8643714ec972bdbdf
+DTSTART:20120531T070000Z
+DTEND:20120531T100000Z
+DESCRIPTION:https://www.kth.se/social/course/DN1241/event/5554210/\n
+DTSTAMP:20111101T122542Z
+LOCATION:L41\, L42\, L43\, L44\, L51\, L52\, M22\, M23\, M24\, M31\, M32\,
+  M33\, M35\, M36\, M37\, M38\, V11\, V12\, V32\, V33\, V34\, V35
+STATUS:CONFIRMED
+SUMMARY:Numerical Methods\, Basic Course III (DN1241) Tentamen
+URL:https://www.kth.se/social/course/DN1241/event/5554210/
+END:VEVENT
+BEGIN:VEVENT
+UID:45e9d85f6e2bfa221f532e4c96ce62c0a2a1ea46
+DTSTART:20120608T060000Z
+DTEND:20120608T110000Z
+DESCRIPTION:https://www.kth.se/social/course/SF1631/event/5832050/\n
+DTSTAMP:20111110T130014Z
+LOCATION:F1
+STATUS:CONFIRMED
+SUMMARY:Discrete Mathematics (SF1631) Tentamen
+URL:https://www.kth.se/social/course/SF1631/event/5832050/
+END:VEVENT
+X-WR-CALDESC:Mina händelser från KTH Social
+X-WR-CALNAME:Min KTH-kalender
+X-WR-RELCALID:39261d80-f455-5a38-8e95-913df3df36b7
+END:VCALENDAR
