@@ -16,19 +16,24 @@
 #
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
+from google.appengine.ext.webapp import template
 
+from handlers.create import FinishHandler
 from handlers.create import CreateHandler
 from handlers.calendar import CalendarHandler
 
+import os
+
 class MainHandler(webapp.RequestHandler):
 	def get(self):
-		self.response.out.write("balle")
-		
-
+		path = os.path.join(os.path.dirname(__file__), 'templates/start.html')
+		self.response.out.write(template.render(path, {}))
+	
 def main():
     application = webapp.WSGIApplication([
 	('/', MainHandler),
-	('/create/*', CreateHandler),
+	('/create', CreateHandler),
+	('/finish', FinishHandler),
 	('/calendar', CalendarHandler)
 	]
 	, debug=True)

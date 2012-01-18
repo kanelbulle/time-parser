@@ -1,0 +1,22 @@
+{% extends "main.html" %}
+
+{% block script %}
+
+<script>
+	function onChange() {
+		var button = document.getElementsByName("submit_button")[0];
+		var textfield = document.getElementsByName("ics_url")[0];
+		button.disabled = textfield.value.length < 1;
+	}
+</script>
+
+{% endblock %}
+
+{% block content %}
+Enter the url to your .ics file:
+
+<form name="submit_form" id="submit_form" method="post" action="/create">
+	<input class="text_field" name="ics_url" type="text" onkeyup="onChange();" />
+</form>
+<button name="submit_button" disabled="1" class="submit_button" onclick="document.submit_form.submit();">Load</button>
+{% endblock %}

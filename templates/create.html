@@ -1,0 +1,25 @@
+{% extends "main.html" %}
+
+{% block content %}
+<p>
+	Below you see a list of courses that were detected. You can rename these courses if you want. Click Create my calendar when you're ready.
+</p>
+<form name="submit_form" id="submit_form" method="post" action="/finish">
+	{% for c_name in course_names %}
+		<input class="text_field" name="{{ forloop.counter0 }}.edited_name" value="{{ c_name }}" type="text" />
+		<input name="{{ forloop.counter0 }}.original_name" value="{{ c_name }}" type="hidden" />
+	{% endfor %}
+	
+	<input type="checkbox" name="insert_location_in_summary" value="insert_location_in_summary" />
+	Insert location (e.g "D3") in the summary <br />
+	
+	<input type="checkbox" name="separate_calendars" value="separate_calendars" checked />
+	Separate calendars <br />
+	
+	<input type="hidden" name="ics_url" value="{{ ics_url }}" />
+</form>
+
+<button class="create_button" onclick="document.submit_form.submit();">
+	Create my calendar
+</button>
+{% endblock %}

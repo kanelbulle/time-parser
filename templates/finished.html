@@ -1,0 +1,10 @@
+{% extends "main.html" %}
+
+{% block content %}
+	<p>
+		Here's your calendar links!
+	</p>
+	{% for link in links %}
+		<a href="{{ link }}">{{ link }}</a><br />
+	{% endfor %}
+{% endblock %}

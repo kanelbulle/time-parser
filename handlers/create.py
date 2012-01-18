@@ -2,66 +2,19 @@
 
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
+from google.appengine.ext.webapp import template
+
+from calendar_entity import CalendarEntity
+from calendar import id_from_summary
+
+from icalendar import Calendar, Event
 
 import urllib2
 import datetime
 import pickle
-from calendar_entity import CalendarEntity
-from icalendar import Calendar, Event
-from calendar import id_from_summary
+import os
 
-class CreateHandler(webapp.RequestHandler):
-	def get(self):
-		try:
-			self.response.headers['Content-Type'] = 'text/html'
-			
-			# fetch the ical file and load a calendar
-			#http://schema.sys.kth.se/4DACTION/iCal_downloadReservations/timeedit.ics?from=1203&to=1224&id1=32408000&id2=32443000&id3=32462000&id4=32463000&id5=33266000&branch=1&lang=1
-			response = urllib2.urlopen(self.request.get("ics_url"))
-			
-			schema = response.read()
-			
-			cal = Calendar.from_string(schema)
-			
-			course_names = set()
-			for component in cal.walk():
-				if not isinstance(component, Event):
-					continue
-				
-				# guessed course name
-				summary = component.decoded('summary', 'none')
-				course_names.add(id_from_summary(summary)[0])
-
-			# found unique courses in schema
-			# reply with html
-			
-			html = """
-<p>Below you see a list of courses that were detected. You can rename these courses if you want. Click Create my calendar when you're ready.</p>
-<form id="submit_form" method="post" action="/create">
-"""
-			i = 0
-			for name in course_names:
-				html += '<input class="text_field" name="%d.edited_name" value="%s" type="text" />' % (i, name)
-				html += '<input name="%d.original_name" value="%s" type="hidden" />' % (i, name)
-				i += 1
-			
-			html += '<input type="checkbox" name="insert_location_in_summary" value="insert_location_in_summary" /> Insert location (e.g "D3") in the summary <br />'
-			html += '<input type="checkbox" name="separate_calendars" value="separate_calendars" checked /> Separate calendars'
-			html += '<input type="hidden" name="ics_url" value="%s" />' % self.request.get("ics_url")
-			html += '</form>'
-			html += '<button class="create_button">Create my calendar</button>'
-			
-			self.response.out.write(html)
-			
-			#urllib2.urlopen('http://www.kth.se/social/user/u1wb0ro7/icalendar/0533dd2283a43e5c3ddefc540bdc2a462c7166d3', None, 30)
-			#response = urllib2.urlopen('http://schema.sys.kth.se/4DACTION/iCal_downloadReservations/timeedit.ics?from=1201&to=1224&id1=17447000&branch=3&lang=1') 
-			#response = urllib2.urlopen('http://schema.sys.kth.se/4DACTION/iCal_downloadReservations/timeedit.ics?from=1201&to=1212&id1=25263000&branch=12&lang=1')
-			#response = urllib2.urlopen('http://schema.sys.kth.se/4DACTION/iCal_downloadReservations/timeedit.ics?from=1203&to=1224&id1=19522000&branch=3&lang=1')
-		except ValueError, e:
-			self.error(400)
-		except IOError, e:
-			self.error(500)
-	
+class FinishHandler(webapp.RequestHandler):
 	def post(self):
 		# post data should contain
 		# 0.original_name, 0.edited_name, ...
@@ -85,6 +38,7 @@ class CreateHandler(webapp.RequestHandler):
 		# create the entities
 		entity_keys = []
 		if separate_calendars:
+			# split the calendars into an entity per course
 			for org_edit_tuple in names.items():
 				ce = CalendarEntity(names_map=pickle.dumps({org_edit_tuple[0] : org_edit_tuple[1]}),
 									ics_url=ics_url, 
@@ -93,18 +47,49 @@ class CreateHandler(webapp.RequestHandler):
 				ce.put()
 				entity_keys.append(str(ce.key()))
 		else:
-			ce = CalendarEntity(names_map=pickle.dumps({org_edit_tuple[0] : org_edit_tuple[1]}),
+			ce = CalendarEntity(names_map=pickle.dumps(names),
 								ics_url=ics_url, 
 								location_in_summary=loc_in_summary,
 								last_read=datetime.datetime.now())
 			ce.put()
 			entity_keys.append(str(ce.key()))
 		
-		html = "<p>Here are your calendar links!</p>"
-		for ek in entity_keys:
-			html += '<a href="http://%s/calendar?cal=%s">http://%s/calendar?cal=%s</a><br />' % (self.request.host, ek, self.request.host, ek)
+		# generate the calendar links
+		links = map(lambda ek: 'http://%s/calendar?cal=%s' % (self.request.host, ek), entity_keys)
 		
-		self.response.out.write(html)
+		path = os.path.join(os.path.dirname(__file__), '../templates/finished.html')
+		self.response.out.write(template.render(path, {'links':links}))
+
+class CreateHandler(webapp.RequestHandler):
+	def post(self):
+		try:
+			# fetch the ical file and load a calendar
+			#http://schema.sys.kth.se/4DACTION/iCal_downloadReservations/timeedit.ics?from=1203&to=1224&id1=32408000&id2=32443000&id3=32462000&id4=32463000&id5=33266000&branch=1&lang=1
+			ics_url = self.request.get("ics_url")
+			response = urllib2.urlopen(ics_url)
+			
+			schema = response.read()
+			
+			cal = Calendar.from_string(schema)
+			
+			course_names = set()
+			for component in cal.walk():
+				if not isinstance(component, Event):
+					continue
+				
+				# guessed course name
+				summary = component.decoded('summary', 'none')
+				course_names.add(id_from_summary(summary)[0])
+
+			# reply with list of unique course names
+			path = os.path.join(os.path.dirname(__file__), '../templates/create.html')
+			self.response.out.write(template.render(path, {'course_names':course_names, 'ics_url':ics_url}))
+		except ValueError, e:
+			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
+			self.response.out.write(template.render(path, {'error_msg':'Oops, the URL you entered was malformed.'}))
+		except IOError, e:
+			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
+			self.response.out.write(template.render(path, {"error_msg":"Oops, the URL you provided timed out."}))
 
 def main():
 	pass
