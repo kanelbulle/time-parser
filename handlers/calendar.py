@@ -13,16 +13,26 @@ import re
 
 class_types = [	'föreläsning', 'frl', 'övning', 'övn', 
 				'laboration', 'lab', 'seminarium', 'sem',
-				'tentamen[\.a1]*', 'lektion', 'workshop', 
+				'tentamen[\.a1]*', 'ten', 'lektion', 'workshop', 
 				'info']
+
+def find_class_types(input_string):
+	matches = []
+	for ct in class_types:
+		word_ct = '\\b' + ct + '\\b'
+		pattern = re.compile(word_ct, re.IGNORECASE | re.UNICODE)
+		if re.search(pattern, input_string):
+			matches.append(ct)
+	return matches
 
 # returns a string with ocurrences of strings in remove_list removed from input_string
 def remove_ocurrence_insensitive(input_string, remove_list):
 	lcase = input_string.lower().encode('utf-8')
+	
 	matches = []
 	for ct in class_types:
-		word_ct = '\b' + ct + '\b'
-		pattern = re.compile(word_ct, re.IGNORECASE)
+		word_ct = '\\b' + ct + '\\b'
+		pattern = re.compile(word_ct, re.IGNORECASE | re.UNICODE)
 		length = len(lcase)
 		lcase = pattern.sub("", lcase)
 		if length != len(lcase):
@@ -69,13 +79,14 @@ class CalendarHandler(webapp.RequestHandler):
 					continue
 				
 				summary = component.decoded('summary', '')
+				
 				(identifier, matches) = id_from_summary(summary)
 				new_summary = name_map.get(identifier, None)
 				if new_summary == None:
 					# no name map exists => this event should not be included
 					continue
 				
-				new_summary += "\\n".join(matches)
+				new_summary += "\\n" + "\\n".join(find_class_types(summary))
 				if cal_entity.location_in_summary:
 					new_summary += "\\n" + component.decoded('location', '')
 				new_summary = new_summary.replace(',', '\,')
@@ -86,6 +97,7 @@ class CalendarHandler(webapp.RequestHandler):
 			
 			self.response.out.write(new_cal.as_string())
 		except Exception, e:
+			raise
 			self.error(500)
 			pass
 			
