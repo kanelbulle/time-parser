@@ -16,7 +16,7 @@ class_types = [	'föreläsning', 'frl', 'övning', 'övn',
 				'tentamen[\.a1]*', 'lektion', 'workshop', 
 				'info']
 
-# Returns a string with ocurrences of strings in remove_list removed from input_string
+# returns a string with ocurrences of strings in remove_list removed from input_string
 def remove_ocurrence_insensitive(input_string, remove_list):
 	lcase = input_string.lower().encode('utf-8')
 	matches = []
