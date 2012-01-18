@@ -16,10 +16,10 @@ import os
 
 class FinishHandler(webapp.RequestHandler):
 	def post(self):
-		# post data should contain
+		# post data should contain:
 		# 0.original_name, 0.edited_name, ...
-		# insert_location_in_summary
-		# separate_calendars
+		# insert_location_in_summary (optional)
+		# separate_calendars (optional)
 		# ics file url
 		
 		# read in the post data
@@ -35,7 +35,7 @@ class FinishHandler(webapp.RequestHandler):
 		loc_in_summary = self.request.get("insert_location_in_summary") != ""
 		ics_url = self.request.get("ics_url")
 		
-		# create the entities
+		# create the calendar entities
 		entity_keys = []
 		if separate_calendars:
 			# split the calendars into an entity per course
@@ -63,15 +63,12 @@ class FinishHandler(webapp.RequestHandler):
 class CreateHandler(webapp.RequestHandler):
 	def post(self):
 		try:
-			# fetch the ical file and load a calendar
-			#http://schema.sys.kth.se/4DACTION/iCal_downloadReservations/timeedit.ics?from=1203&to=1224&id1=32408000&id2=32443000&id3=32462000&id4=32463000&id5=33266000&branch=1&lang=1
+			# fetch the ical file and initialize a calendar
 			ics_url = self.request.get("ics_url")
-			response = urllib2.urlopen(ics_url)
-			
-			schema = response.read()
-			
+			schema = urllib2.urlopen(ics_url).read()
 			cal = Calendar.from_string(schema)
 			
+			# find the unique course names
 			course_names = set()
 			for component in cal.walk():
 				if not isinstance(component, Event):
@@ -96,4 +93,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
