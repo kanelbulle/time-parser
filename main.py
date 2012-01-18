@@ -21,6 +21,7 @@ from google.appengine.ext.webapp import template
 from handlers.create import FinishHandler
 from handlers.create import CreateHandler
 from handlers.calendar import CalendarHandler
+from handlers.purge import PurgeHandler
 
 import os
 
@@ -34,7 +35,8 @@ def main():
 	('/', MainHandler),
 	('/create', CreateHandler),
 	('/finish', FinishHandler),
-	('/calendar', CalendarHandler)
+	('/calendar', CalendarHandler),
+	('/purge', PurgeHandler)
 	]
 	, debug=True)
 	

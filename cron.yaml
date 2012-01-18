@@ -1,0 +1,4 @@
+cron:
+- description: remove unused calendars
+  url: /purge
+  schedule: every 1 minutes
