@@ -43,7 +43,7 @@ def id_from_summary(summary):
 
 class CalendarHandler(webapp.RequestHandler):
 	def get(self):
-		self.response.headers['Content-Type'] = 'text/plain'
+		self.response.headers['Content-Type'] = 'text/calendar'
 		
 		# fetch calendar entity with given key
 		cal_key = self.request.get("cal")
