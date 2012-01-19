@@ -84,10 +84,10 @@ class CreateHandler(webapp.RequestHandler):
 			# reply with list of unique course names
 			path = os.path.join(os.path.dirname(__file__), '../templates/create.html')
 			self.response.out.write(template.render(path, {'course_names':course_names, 'ics_url':ics_url}))
-		except (ValueError, InvalidURLError) as e:
+		except (ValueError, InvalidURLError), e:
 			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
 			self.response.out.write(template.render(path, {'error_msg':'Oops, the URL you entered was malformed.'}))
-		except IOError as e:
+		except IOError, e:
 			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
 			self.response.out.write(template.render(path, {"error_msg":"Oops, the URL you provided timed out."}))
 		except:
