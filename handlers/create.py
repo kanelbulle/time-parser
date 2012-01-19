@@ -4,13 +4,13 @@
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
 from google.appengine.ext.webapp import template
+from google.appengine.api import urlfetch
 
 from calendar_entity import CalendarEntity
 from calendar import id_from_summary
 
 from icalendar import Calendar, Event
 
-import urllib2
 import datetime
 import pickle
 import os
@@ -66,7 +66,7 @@ class CreateHandler(webapp.RequestHandler):
 		try:
 			# fetch the ical file and initialize a calendar
 			ics_url = self.request.get("ics_url")
-			schema = urllib2.urlopen(ics_url).read()
+			schema = urlfetch.fetch(ics_url, deadline=20).content
 			cal = Calendar.from_string(schema)
 			
 			# find the unique course names
@@ -83,6 +83,7 @@ class CreateHandler(webapp.RequestHandler):
 			path = os.path.join(os.path.dirname(__file__), '../templates/create.html')
 			self.response.out.write(template.render(path, {'course_names':course_names, 'ics_url':ics_url}))
 		except ValueError, e:
+			raise
 			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
 			self.response.out.write(template.render(path, {'error_msg':'Oops, the URL you entered was malformed.'}))
 		except IOError, e:

@@ -4,12 +4,12 @@
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
 from google.appengine.ext import db
+from google.appengine.api import urlfetch
 
 from icalendar import Calendar, Event
 
 from datetime import datetime, timedelta
 
-import urllib2
 import pickle
 import re
 
@@ -57,7 +57,7 @@ class CalendarHandler(webapp.RequestHandler):
 			cal_entity.put()
 
 		try:
-			ical_string = urllib2.urlopen(cal_entity.ics_url).read()
+			ical_string = urlfetch.fetch(cal_entity.ics_url, deadline=20).content
 			cal = Calendar.from_string(ical_string)
 
 			# new_cal will contain the events that match
