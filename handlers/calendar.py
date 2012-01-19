@@ -97,7 +97,7 @@ class CalendarHandler(webapp.RequestHandler):
 				new_summary = new_summary.replace(',', '\,')
 				
 				# add the edited component to the new calendar
-				component['summary'] = new_summary
+				component['summary'] = new_summary.encode('utf-8')
 				new_cal.add_component(component)
 			
 			self.response.out.write(new_cal.as_string())
