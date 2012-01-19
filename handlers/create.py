@@ -5,6 +5,7 @@ from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
 from google.appengine.ext.webapp import template
 from google.appengine.api import urlfetch
+from google.appengine.api.urlfetch import InvalidURLError
 
 from calendar_entity import CalendarEntity
 from calendar import id_from_summary
@@ -83,12 +84,15 @@ class CreateHandler(webapp.RequestHandler):
 			# reply with list of unique course names
 			path = os.path.join(os.path.dirname(__file__), '../templates/create.html')
 			self.response.out.write(template.render(path, {'course_names':course_names, 'ics_url':ics_url}))
-		except ValueError, e:
+		except (ValueError, InvalidURLError) as e:
 			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
 			self.response.out.write(template.render(path, {'error_msg':'Oops, the URL you entered was malformed.'}))
-		except IOError, e:
+		except IOError as e:
 			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
 			self.response.out.write(template.render(path, {"error_msg":"Oops, the URL you provided timed out."}))
+		except:
+			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
+			self.response.out.write(template.render(path, {"error_msg":"Oops, an unknown error occurred."}))
 
 def main():
 	pass

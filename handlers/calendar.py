@@ -101,7 +101,7 @@ class CalendarHandler(webapp.RequestHandler):
 				new_cal.add_component(component)
 			
 			self.response.out.write(new_cal.as_string())
-		except Exception, e:
+		except:
 			self.error(500)
 			
 def main():
