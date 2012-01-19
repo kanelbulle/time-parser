@@ -83,7 +83,6 @@ class CreateHandler(webapp.RequestHandler):
 			path = os.path.join(os.path.dirname(__file__), '../templates/create.html')
 			self.response.out.write(template.render(path, {'course_names':course_names, 'ics_url':ics_url}))
 		except ValueError, e:
-			raise
 			path = os.path.join(os.path.dirname(__file__), '../templates/error.html')
 			self.response.out.write(template.render(path, {'error_msg':'Oops, the URL you entered was malformed.'}))
 		except IOError, e:
