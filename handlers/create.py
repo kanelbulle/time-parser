@@ -37,7 +37,8 @@ class FinishHandler(webapp.RequestHandler):
 		ics_url = self.request.get("ics_url")
 		
 		# create the calendar entities
-		entity_keys = []
+		name_and_links = []
+		url_pattern = 'http://%s/calendar?cal=%%s' % self.request.host
 		if separate_calendars:
 			# split the calendars into an entity per course
 			for org_edit_tuple in names.items():
@@ -46,20 +47,20 @@ class FinishHandler(webapp.RequestHandler):
 									location_in_summary=loc_in_summary,
 									last_read=datetime.datetime.now())
 				ce.put()
-				entity_keys.append(str(ce.key()))
+				link = url_pattern % str(ce.key())
+				name_and_links.append({'name':org_edit_tuple[1], 'link':link})
 		else:
 			ce = CalendarEntity(names_map=pickle.dumps(names),
 								ics_url=ics_url, 
 								location_in_summary=loc_in_summary,
 								last_read=datetime.datetime.now())
 			ce.put()
-			entity_keys.append(str(ce.key()))
+			link = url_pattern % str(ce.key())
+			name_and_links.append({'link':link})
 		
-		# generate the calendar links
-		links = map(lambda ek: 'http://%s/calendar?cal=%s' % (self.request.host, ek), entity_keys)
-		
+		# output template
 		path = os.path.join(os.path.dirname(__file__), '../templates/finished.html')
-		self.response.out.write(template.render(path, {'links':links}))
+		self.response.out.write(template.render(path, {'name_and_links':name_and_links}))
 
 class CreateHandler(webapp.RequestHandler):
 	def post(self):

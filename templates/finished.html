@@ -4,7 +4,10 @@
 	<p>
 		Here's your calendar links!
 	</p>
-	{% for link in links %}
-		<a href="{{ link }}">{{ link }}</a><br />
+	{% for nl in name_and_links %}
+		{% if nl.name %}
+			({{ nl.name }}) - 
+		{% endif %}
+		<a href="{{ nl.link }}">{{ nl.link }}</a><br />
 	{% endfor %}
 {% endblock %}
