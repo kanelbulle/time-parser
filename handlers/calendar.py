@@ -48,6 +48,11 @@ class CalendarHandler(webapp.RequestHandler):
 		# fetch calendar entity with given key
 		cal_key = self.request.get("cal")
 		cal_entity = db.get(cal_key)
+		
+		if cal_entity == None:
+			self.error(404)
+			return
+		
 		name_map = pickle.loads(cal_entity.names_map)
 		
 		# update last_read every now and then
