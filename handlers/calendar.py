@@ -125,7 +125,7 @@ class CalendarHandler(webapp.RequestHandler):
 				
 				# store calender text in entity
 				cal_text = new_cal.as_string()
-				cal_entity.cached_cal = cal_text
+				cal_entity.cached_cal = cal_text.decode('utf-8')
 				cal_entity.put()
 				
 				logging.info('Adding calendar to memcache')
@@ -143,6 +143,7 @@ class CalendarHandler(webapp.RequestHandler):
 		except:
 			logging.error('There was an error serving calendar %s', cal_key)
 			self.error(500)
+			raise
 			
 def main():
 	pass
