@@ -5,13 +5,18 @@ from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
 from google.appengine.ext import db
 from google.appengine.api import urlfetch
+from google.appengine.api import memcache
 
 from icalendar import Calendar, Event
 
 from datetime import datetime, timedelta
 
+import logging
 import pickle
 import re
+
+cache_expiration = timedelta(days=0.5)
+cache_expiration_sec = cache_expiration.total_seconds()
 
 class_types = [	'föreläsning', 'frl', 'övning', 'övn', 
 				'laboration', 'lab', 'seminarium', 'sem',
@@ -45,68 +50,95 @@ class CalendarHandler(webapp.RequestHandler):
 	def get(self):
 		self.response.headers['Content-Type'] = 'text/calendar; charset=UTF-8'
 		
-		# fetch calendar entity with given key
 		cal_key = self.request.get("cal")
+
+		# check if calendar is in memcache
+		cal_string = memcache.get(cal_key)
+		if cal_string is not None:
+			logging.info('Serving calendar straight from memcache')
+			self.response.out.write(cal_string)
+			return
+		
+		# no memcache, fetch calendar entity from db
 		cal_entity = db.get(cal_key)
 		
 		if cal_entity == None:
 			self.error(404)
 			return
 		
-		name_map = pickle.loads(cal_entity.names_map)
-		
-		# update last_read every now and then
-		delta = timedelta(days=1)
-		if (datetime.now() - delta > cal_entity.last_read):
-			cal_entity.last_read = datetime.now()
-			cal_entity.put()
-
 		try:
-			ical_string = urlfetch.fetch(cal_entity.ics_url, deadline=20).content
-			cal = Calendar.from_string(ical_string)
+			# update entry if it hasn't been updated in a day
+			t_diff = datetime.now() - cal_entity.last_read
+			logging.info('Calendar was reloaded %d seconds ago', t_diff.total_seconds())
+			if cal_entity.cached_cal is None or t_diff > cache_expiration:
+				logging.info('Reloading calendar')
+				
+				cal_entity.last_read = datetime.now()
+			
+				ical_string = urlfetch.fetch(cal_entity.ics_url, deadline=20).content
+				cal = Calendar.from_string(ical_string)
 
-			# new_cal will contain the events that match
-			new_cal = Calendar()
-			# transferring first level attributes from cal to new_cal
-			# prodid and version are required
-			new_cal.add('prodid', cal.decoded('prodid', ''))
-			new_cal.add('version', cal.decoded('version', ''))
-			new_cal.add('x-wr-calname', cal.decoded('x-wr-calname', ''))
-			new_cal.add('x-wr-timezone', cal.decoded('x-wr-timezone', ''))
-			new_cal.add('calscale', cal.decoded('calscale', ''))
-			new_cal.add('method', cal.decoded('method', ''))
+				# new_cal will contain the events that match
+				new_cal = Calendar()
+				# transferring first level attributes from cal to new_cal
+				# prodid and version are required
+				new_cal.add('prodid', cal.decoded('prodid', ''))
+				new_cal.add('version', cal.decoded('version', ''))
+				new_cal.add('x-wr-calname', cal.decoded('x-wr-calname', ''))
+				new_cal.add('x-wr-timezone', cal.decoded('x-wr-timezone', ''))
+				new_cal.add('calscale', cal.decoded('calscale', ''))
+				new_cal.add('method', cal.decoded('method', ''))
 			
-			# traverse the components and identify which events match
-			for component in cal.walk():
-				if isinstance(component, Calendar):
-					continue
+				name_map = pickle.loads(cal_entity.names_map)
+			
+				# traverse the components and identify which events match
+				for component in cal.walk():
+					if isinstance(component, Calendar):
+						continue
 					
-				if not isinstance(component, Event):
-					# blindly add non VEVENTs such as VTIMEZONE, STANDARD, DAYLIGHT
+					if not isinstance(component, Event):
+						# blindly add non VEVENTs such as VTIMEZONE, STANDARD, DAYLIGHT
+						new_cal.add_component(component)
+						continue
+				
+					summary = component.decoded('summary', '')
+				
+					identifier = id_from_summary(summary)
+					new_summary = name_map.get(identifier, None)
+					if new_summary == None:
+						# no name map exists => this event should not be included
+						continue
+				
+					# append the class type
+					new_summary += "\\n" + "\\n".join(find_class_types(summary))
+				
+					if cal_entity.location_in_summary:
+						new_summary += "\\n" + component.decoded('location', '')
+					new_summary = new_summary.replace(',', '\,')
+				
+					# add the edited component to the new calendar
+					component['summary'] = new_summary.encode('utf-8')
 					new_cal.add_component(component)
-					continue
 				
-				summary = component.decoded('summary', '')
+				# store calender text in entity
+				cal_text = new_cal.as_string()
+				cal_entity.cached_cal = cal_text
+				cal_entity.put()
 				
-				identifier = id_from_summary(summary)
-				new_summary = name_map.get(identifier, None)
-				if new_summary == None:
-					# no name map exists => this event should not be included
-					continue
+				logging.info('Aadding calendar to memcache')
+				# add calendar text to memcache
+				memcache.add(cal_key, cal_text, cache_expiration_sec)
 				
-				# append the class type
-				new_summary += "\\n" + "\\n".join(find_class_types(summary))
-				
-				if cal_entity.location_in_summary:
-					new_summary += "\\n" + component.decoded('location', '')
-				new_summary = new_summary.replace(',', '\,')
-				
-				# add the edited component to the new calendar
-				component['summary'] = new_summary.encode('utf-8')
-				new_cal.add_component(component)
+				cal_string = cal_text
+			else:
+				# this could happen if the memcache has been flushed for some reason
+				# readding the calendar text to memcache
+				cal_string = cal_entity.cached_cal
+				memcache.add(cal_key, cal_string, cache_expiration_sec - t_diff.total_seconds())
 			
-			self.response.out.write(new_cal.as_string())
+			self.response.out.write(cal_string)
 		except:
+			logging.error('There was an error serving calendar %s', cal_key)
 			self.error(500)
 			
 def main():

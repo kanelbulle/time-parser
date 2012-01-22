@@ -12,4 +12,4 @@ class CalendarEntity(db.Model):
 	ics_url = db.StringProperty(required=True)
 	location_in_summary = db.BooleanProperty(required=True)
 	last_read = db.DateTimeProperty(required=True)
-	
+	cached_cal = db.TextProperty(required=False)
