@@ -17,6 +17,7 @@
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import util
 from google.appengine.ext.webapp import template
+from google.appengine.dist import use_library
 
 from handlers.create import FinishHandler
 from handlers.create import CreateHandler
@@ -31,6 +32,9 @@ class MainHandler(webapp.RequestHandler):
 		self.response.out.write(template.render(path, {}))
 	
 def main():
+	os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'
+	use_library('django', '0.96')
+	
     application = webapp.WSGIApplication([
 	('/', MainHandler),
 	('/create', CreateHandler),
