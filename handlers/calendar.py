@@ -15,13 +15,18 @@ import logging
 import pickle
 import re
 
+def td_to_seconds(td):
+	return int(td.days * 3600 * 24 + td.seconds)
+
 cache_expiration = timedelta(days=0.5)
-cache_expiration_sec = cache_expiration.total_seconds()
+cache_expiration_sec = td_to_seconds(cache_expiration)
 
 class_types = [	'föreläsning', 'frl', 'övning', 'övn', 
 				'laboration', 'lab', 'seminarium', 'sem',
 				'tentamen[\.a1]*', 'ten', 'lektion', 'workshop', 
 				'info']
+
+
 
 def find_class_types(input_string):
 	matches = []
@@ -69,7 +74,7 @@ class CalendarHandler(webapp.RequestHandler):
 		try:
 			# update entry if it hasn't been updated in a day
 			t_diff = datetime.now() - cal_entity.last_read
-			logging.info('Calendar was reloaded %d seconds ago', t_diff.total_seconds())
+			logging.info('Calendar was reloaded %d seconds ago', td_to_seconds(t_diff))
 			if cal_entity.cached_cal is None or t_diff > cache_expiration:
 				logging.info('Reloading calendar')
 				
@@ -134,7 +139,7 @@ class CalendarHandler(webapp.RequestHandler):
 				# this could happen if the memcache has been flushed for some reason
 				# readding the calendar text to memcache
 				cal_string = cal_entity.cached_cal
-				memcache.add(cal_key, cal_string, cache_expiration_sec - t_diff.total_seconds())
+				memcache.add(cal_key, cal_string, cache_expiration_sec - td_to_seconds(t_diff))
 			
 			self.response.out.write(cal_string)
 		except:
