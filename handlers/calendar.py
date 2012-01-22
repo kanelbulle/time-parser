@@ -26,8 +26,6 @@ class_types = [	'föreläsning', 'frl', 'övning', 'övn',
 				'tentamen[\.a1]*', 'ten', 'lektion', 'workshop', 
 				'info']
 
-
-
 def find_class_types(input_string):
 	matches = []
 	for ct in class_types:
@@ -130,7 +128,7 @@ class CalendarHandler(webapp.RequestHandler):
 				cal_entity.cached_cal = cal_text
 				cal_entity.put()
 				
-				logging.info('Aadding calendar to memcache')
+				logging.info('Adding calendar to memcache')
 				# add calendar text to memcache
 				memcache.add(cal_key, cal_text, cache_expiration_sec)
 				
