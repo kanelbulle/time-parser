@@ -13,8 +13,16 @@
 {% endblock %}
 
 {% block content %}
-Enter the url to your .ics file:
+<p>
+	time-parser can make your calendar look a little bit nicer. All you need to supply is an URL to an iCal-file from TimeEdit. You can find a link to a schema for all your courses on "Mina sidor" on KTH's webpage. Then scroll down to the bottom and copy paste the iCal-link into here.
+</p>
 
+<p>
+	You can then decide to rename the course name that is shown for each calendar, and you can also split the calendar into a URL per course. The splitting is good if you want to have a different color for each course in your calendar.
+</p>
+
+
+Enter the url to your .ics file:
 <form name="submit_form" id="submit_form" method="post" action="/create">
 	<input class="text_field" name="ics_url" type="text" onkeyup="onChange();" />
 </form>
