@@ -35,7 +35,7 @@ def main():
 	os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'
 	use_library('django', '0.96')
 	
-    application = webapp.WSGIApplication([
+	application = webapp.WSGIApplication([
 	('/', MainHandler),
 	('/create', CreateHandler),
 	('/finish', FinishHandler),
@@ -44,7 +44,7 @@ def main():
 	]
 	, debug=True)
 	
-    util.run_wsgi_app(application)
+	util.run_wsgi_app(application)
 
 
 if __name__ == '__main__':
