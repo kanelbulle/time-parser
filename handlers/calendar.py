@@ -47,7 +47,7 @@ def remove_ocurrence_insensitive(input_string, remove_list):
 	return lcase
 
 def id_from_summary(summary):
-	return remove_ocurrence_insensitive(summary.splitlines()[0], class_types)
+	return unicode(remove_ocurrence_insensitive(summary.splitlines()[0], class_types), "utf-8")
 
 class CalendarHandler(webapp.RequestHandler):
 	def get(self):
@@ -93,6 +93,7 @@ class CalendarHandler(webapp.RequestHandler):
 				new_cal.add('method', cal.decoded('method', ''))
 			
 				name_map = pickle.loads(cal_entity.names_map)
+				logging.info(name_map)
 			
 				# traverse the components and identify which events match
 				for component in cal.walk():
@@ -107,6 +108,7 @@ class CalendarHandler(webapp.RequestHandler):
 					summary = component.decoded('summary', '')
 				
 					identifier = id_from_summary(summary)
+					logging.info('reduced to identifier: ' + identifier )
 					new_summary = name_map.get(identifier, None)
 					if new_summary == None:
 						# no name map exists => this event should not be included
